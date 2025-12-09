@@ -1,17 +1,16 @@
-// src/utils/exportToExcel.ts
 import * as XLSX from "xlsx";
-import type { Subject } from "../types/Subject";
+import type { Assignatura } from "../types/assignatures";
 
-export function exportSubjectsToExcel(subjects: Subject[]) {
+export function exportSubjectsToExcel(subjects: Assignatura[]) {
   const rows = subjects.map((s) => ({
     Programa: s.programa ?? "",
-    Bloc: s.blocNom,
-    "Codi UPC": s.codi,
-    Sigles: s.sigles,
-    "Nom (cat)": s.nom_cat,
+    Bloc: s.bloc_nom,
+    "Codi UPC": s.codi_upc_ud,
+    Sigles: s.sigles_ud,
+    "Nom (cat)": s.nom,
     "Nom (cast)": s.nom_cast,
     "Name (eng)": s.nom_eng,
-    Crèdits: s.credits ?? "",
+    Crèdits: s.credits_ects ?? "",
     Departament: s.dept,
     Centre: s.centre,
     Vigent: s.vigent,

@@ -23,7 +23,7 @@ export function parseCsv(
     return { headers: [], rows: [] };
   }
 
-  const firstLine = lines[0] ?? "";
+  const firstLine = lines[0];
   if (!firstLine) {
     return { headers: [], rows: [] };
   }
@@ -39,7 +39,8 @@ export function parseCsv(
     const row: Record<string, string> = {};
 
     headers.forEach((h, idx) => {
-      row[h] = cols[idx]?.trim() ?? "";
+      const val = cols[idx];
+      row[h] = val ? val.trim() : "";
     });
 
     // només afegim files que no estiguin totalment buides

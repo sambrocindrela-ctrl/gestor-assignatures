@@ -1,5 +1,5 @@
 // src/utils/parseBlocsJson.ts
-import type { Subject } from "../types/Subject";
+import type { Assignatura } from "../types/assignatures";
 
 interface RawUd {
   codi_upc_ud?: string;
@@ -11,6 +11,11 @@ interface RawUd {
   dept?: string;
   credits_ects?: number;
   centre?: string;
+  // Fallback properties from original Subject type logic
+  codi_ud?: string;
+  codi?: string;
+  sigles?: string;
+  acronim?: string;
 }
 
 interface RawBloc {
@@ -21,14 +26,14 @@ interface RawBloc {
   unitats_docents?: RawUd[];
 }
 
-export function parseBlocsJson(raw: unknown): Subject[] {
+export function parseBlocsJson(raw: unknown): Assignatura[] {
   if (!Array.isArray(raw)) {
     console.warn("El JSON raíz no es un array de blocs");
     return [];
   }
 
   const blocs = raw as RawBloc[];
-  const subjects: Subject[] = [];
+  const subjects: Assignatura[] = [];
 
   for (const bloc of blocs) {
     const blocId = bloc.id ?? null;
@@ -38,26 +43,25 @@ export function parseBlocsJson(raw: unknown): Subject[] {
 
     const uds = bloc.unitats_docents ?? [];
     for (const ud of uds) {
-      if (!ud.codi_upc_ud) continue; // sin código, no nos sirve
+      const codi = ud.codi_upc_ud ?? ud.codi_ud ?? ud.codi ?? "";
+      if (!codi) continue; // sin código, no nos sirve
 
       subjects.push({
         programa,
-        blocId,
-        blocNom,
+        bloc_id: blocId,
+        bloc_nom: blocNom,
         visibilitat,
 
-        codi: ud.codi_upc_ud ?? "",
-        sigles: ud.sigles_ud ?? "",
-        nom_cat: ud.nom ?? "",
+        codi_upc_ud: codi,
+        sigles_ud: ud.sigles_ud ?? ud.sigles ?? ud.acronim ?? "",
+        nom: ud.nom ?? "",
         nom_cast: ud.nom_cast ?? "",
         nom_eng: ud.nom_eng ?? "",
 
         vigent: ud.vigent ?? "",
         dept: ud.dept ?? "",
-        credits: ud.credits_ects ?? null,
+        credits_ects: ud.credits_ects ?? 0,
         centre: ud.centre ?? "",
-
-        // espacio para futuros merges
       });
     }
   }
