@@ -1,0 +1,1052 @@
+[
+    {
+        "id": 200,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230001",
+                "sigles_ud": "CAL",
+                "nom": "CÀLCUL",
+                "nom_cast": "CÁLCULO",
+                "nom_eng": "CALCULUS",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230005",
+                "sigles_ud": "FO",
+                "nom": "FONAMENTS DELS ORDINADORS",
+                "nom_cast": "FUNDAMENTOS DE LOS ORDENADORES",
+                "nom_eng": "FUNDAMENTALS OF COMPUTERS",
+                "vigent": "S",
+                "dept": "DAC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230080",
+                "sigles_ud": "AL",
+                "nom": "ÀLGEBRA LINEAL",
+                "nom_cast": "ÁLGEBRA LINEAL",
+                "nom_eng": "LINEAR ALGEBRA",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230081",
+                "sigles_ud": "FDF",
+                "nom": "FONAMENTS DE FÍSICA",
+                "nom_cast": "FUNDAMENTOS DE FÍSICA",
+                "nom_eng": "FUNDAMENTALS OF PHYSICS",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230082",
+                "sigles_ud": "FDE",
+                "nom": "FONAMENTS D'ELECTRÒNICA",
+                "nom_cast": "FUNDAMENTOS DE ELECTRÓNICA",
+                "nom_eng": "FUNDAMENTALS OF ELECTRONICS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 7.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "1A",
+        "visibilitat": "PUB",
+        "programa": 1155
+    },
+    {
+        "id": 203,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230015",
+                "sigles_ud": "IXT",
+                "nom": "INTRODUCCIÓ A LES XARXES TELEMÀTIQUES",
+                "nom_cast": "INTRODUCCIÓN A LAS REDES TELEMÁTICAS",
+                "nom_eng": "INTRODUCTION TO NETWORKS",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230083",
+                "sigles_ud": "CAVEC",
+                "nom": "CÀLCUL VECTORIAL",
+                "nom_cast": "CÁLCULO VECTORIAL",
+                "nom_eng": "VECTOR CALCULUS",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230084",
+                "sigles_ud": "CSL",
+                "nom": "CIRCUITS I SISTEMES LINEALS",
+                "nom_cast": "CIRCUITOS Y SISTEMAS LINEALES",
+                "nom_eng": "LINEAR CIRCUITS AND SYSTEMS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230085",
+                "sigles_ud": "MATEL",
+                "nom": "MATEMÀTIQUES DE LA TELECOMUNICACIÓ",
+                "nom_cast": "MATEMÁTICAS DE LA TELECOMUNICACIÓN",
+                "nom_eng": "MATHEMATICS FOR TELECOMMUNICATIONS",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230086",
+                "sigles_ud": "POO",
+                "nom": "PROGRAMACIÓ ORIENTADA A OBJECTES",
+                "nom_cast": "PROGRAMACIÓN ORIENTADA A OBJETOS",
+                "nom_eng": "OBJECT-ORIENTED PROGRAMMING",
+                "vigent": "S",
+                "dept": "DAC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "1B",
+        "visibilitat": "PUB",
+        "programa": 1155
+    },
+    {
+        "id": 204,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230007",
+                "sigles_ud": "EM",
+                "nom": "ELECTROMAGNETISME",
+                "nom_cast": "ELECTROMAGNETISMO",
+                "nom_eng": "ELECTROMAGNETISM",
+                "vigent": "S",
+                "dept": "TSC;FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230009",
+                "sigles_ud": "ENTIC",
+                "nom": "INTRODUCCIÓ A L'ENGINYERIA TIC",
+                "nom_cast": "INTRODUCCIÓN A LA INGENIERÍA TIC",
+                "nom_eng": "INTRODUCTION TO ICT ENGINEERING",
+                "vigent": "S",
+                "dept": "OE;DAC;EEL;ENTEL;TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230019",
+                "sigles_ud": "DGD",
+                "nom": "DISSENY DIGITAL",
+                "nom_cast": "DISEÑO DIGITAL",
+                "nom_eng": "DIGITAL DESIGN",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230087",
+                "sigles_ud": "PIE",
+                "nom": "PROBABILITAT I ESTADÍSTICA",
+                "nom_cast": "PROBABILIDAD Y ESTADÍSTICA",
+                "nom_eng": "PROBABILITY AND STATISTICS",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230088",
+                "sigles_ud": "SSIS",
+                "nom": "SENYALS I SISTEMES",
+                "nom_cast": "SEÑALES Y SISTEMAS",
+                "nom_eng": "SIGNALS AND SYSTEMS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "2A",
+        "visibilitat": "PUB",
+        "programa": 1155
+    },
+    {
+        "id": 205,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230014",
+                "sigles_ud": "FISE",
+                "nom": "FUNCIONS I SISTEMES ELECTRÒNICS",
+                "nom_cast": "FUNCIONES Y SISTEMAS ELECTRÓNICOS",
+                "nom_eng": "ELECTRONIC FUNCTIONS AND SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230018",
+                "sigles_ud": "ICOM",
+                "nom": "INTRODUCCIÓ A LES COMUNICACIONS",
+                "nom_cast": "INTRODUCCIÓN A LAS COMUNICACIONES",
+                "nom_eng": "INTRODUCTION TO COMMUNICATIONS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230020",
+                "sigles_ud": "AST",
+                "nom": "APLICACIONS I SERVEIS TELEMÀTICS",
+                "nom_cast": "APLICACIONES Y SERVICIOS TELEMÁTICOS",
+                "nom_eng": "NETWORK APPLICATIONS AND SERVICES",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230089",
+                "sigles_ud": "IPAV",
+                "nom": "INTRODUCCIÓ AL PROCESSAMENT AUDIOVISUAL",
+                "nom_cast": "INTRODUCCIÓN AL PROCESADO AUDIOVISUAL",
+                "nom_eng": "INTRODUCTION TO AUDIOVISUAL PROCESSING",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230090",
+                "sigles_ud": "ONELE",
+                "nom": "ONES ELECTROMAGNÈTIQUES",
+                "nom_cast": "ONDAS ELECTROMAGNÉTICAS",
+                "nom_eng": "ELECTROMAGNETICS WAVES",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "2B",
+        "visibilitat": "PUB",
+        "programa": 1155
+    },
+    {
+        "id": 206,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230013",
+                "sigles_ud": "RP",
+                "nom": "RADIACIÓ I PROPAGACIÓ",
+                "nom_cast": "RADIACIÓN Y PROPAGACIÓN",
+                "nom_eng": "RADIATION AND PROPAGATION",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230016",
+                "sigles_ud": "PBE",
+                "nom": "PROJECTE BÀSIC D'ENGINYERIA",
+                "nom_cast": "PROYECTO BÁSICO DE INGENIERÍA",
+                "nom_eng": "BASIC ENGINEERING PROJECT",
+                "vigent": "S",
+                "dept": "TSC;EEL;OE;MA IV;ENTEL;MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230091",
+                "sigles_ud": "DSBM",
+                "nom": "DISSENY DE SISTEMES BASATS EN MICROPROCESSADORS",
+                "nom_cast": "DISEÑO DE SISTEMAS BASADOS EN MICROPROCESADORES",
+                "nom_eng": "DESIGN OF MICROPROCESSOR-BASED SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230092",
+                "sigles_ud": "PSAVC",
+                "nom": "PROCESSAMENT DEL SENYAL AUDIOVISUAL I DE COMUNICACIONS",
+                "nom_cast": "PROCESADO DELA SEÑAL AUDIOVISUAL Y DE COMUNICACIONES",
+                "nom_eng": "AUDIOVISUAL AND COMMUNICATION SIGNAL PROCESSING",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230093",
+                "sigles_ud": "TD",
+                "nom": "TRANSMISSIÓ DE DADES",
+                "nom_cast": "TRANSMISIÓN DE DATOS",
+                "nom_eng": "DATA TRANSMISSION",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "3A",
+        "visibilitat": "PUB",
+        "programa": 1155
+    },
+    {
+        "id": 207,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230021",
+                "sigles_ud": "EIM",
+                "nom": "ECONOMIA I MANAGEMENT",
+                "nom_cast": "ECONOMÍA Y MANAGEMENT",
+                "nom_eng": "ECONOMICS AND MANAGEMENT",
+                "vigent": "S",
+                "dept": "OE",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230022",
+                "sigles_ud": "PAV",
+                "nom": "PROCESSAMENT D'ÀUDIO I VEU",
+                "nom_cast": "PROCESADO DE AUDIO Y VOZ",
+                "nom_eng": "AUDIO AND SPEECH PROCESSING",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230023",
+                "sigles_ud": "AE",
+                "nom": "ACÚSTICA I ELECTROACÚSTICA",
+                "nom_cast": "ACÚSTICA Y ELECTROACÚSTICA",
+                "nom_eng": "ACOUSTICS AND ELECTROACOUSTICS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230024",
+                "sigles_ud": "PIV",
+                "nom": "PROCESSAMENT D'IMATGE I VÍDEO",
+                "nom_cast": "PROCESADO DE IMAGEN Y VÍDEO",
+                "nom_eng": "IMAGE AND VIDEO PROCESSING",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230025",
+                "sigles_ud": "CM",
+                "nom": "COMUNICACIONS MULTIMÈDIA",
+                "nom_cast": "COMUNICACIONES MULTIMEDIA",
+                "nom_eng": "MULTIMEDIA COMMUNICATIONS",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "3B Menció Sist. Audiovisuals",
+        "visibilitat": "PUB",
+        "programa": 1155
+    },
+    {
+        "id": 208,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230021",
+                "sigles_ud": "EIM",
+                "nom": "ECONOMIA I MANAGEMENT",
+                "nom_cast": "ECONOMÍA Y MANAGEMENT",
+                "nom_eng": "ECONOMICS AND MANAGEMENT",
+                "vigent": "S",
+                "dept": "OE",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230051",
+                "sigles_ud": "CDA SISTEL",
+                "nom": "COMUNICACIONS DIGITALS AVANÇADES",
+                "nom_cast": "COMUNICACIONES DIGITALES AVANZADAS",
+                "nom_eng": "ADVANCED DIGITAL COMMUNICATIONS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230052",
+                "sigles_ud": "MICROS",
+                "nom": "MICROONES",
+                "nom_cast": "MICROONDAS",
+                "nom_eng": "MICROWAVES",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230053",
+                "sigles_ud": "ANTENES",
+                "nom": "ANTENES",
+                "nom_cast": "ANTENAS",
+                "nom_eng": "ANTENNAS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230055",
+                "sigles_ud": "COMOPT",
+                "nom": "COMUNICACIONS ÒPTIQUES",
+                "nom_cast": "COMUNICACIONES ÓPTICAS",
+                "nom_eng": "OPTICAL COMMUNICATIONS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "3B Menció Sist Telecomunicació",
+        "visibilitat": "PUB",
+        "programa": 1155
+    },
+    {
+        "id": 209,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230021",
+                "sigles_ud": "EIM",
+                "nom": "ECONOMIA I MANAGEMENT",
+                "nom_cast": "ECONOMÍA Y MANAGEMENT",
+                "nom_eng": "ECONOMICS AND MANAGEMENT",
+                "vigent": "S",
+                "dept": "OE",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230041",
+                "sigles_ud": "IX",
+                "nom": "INFRAESTRUCTURES DE XARXA",
+                "nom_cast": "INFRAESTRUCTURAS DE RED",
+                "nom_eng": "NETWORK INFRASTRUCTURE",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230066",
+                "sigles_ud": "AAX",
+                "nom": "ANÀLISI I AVALUACIÓ DE XARXES",
+                "nom_cast": "ANÁLISIS Y EVALUACIÓN DE REDES",
+                "nom_eng": "NETWORK ANALYSIS AND EVALUATION",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230075",
+                "sigles_ud": "TCGI",
+                "nom": "TRANSPORT, CONTROL I GESTIÓ A INTERNET",
+                "nom_cast": "TRANSPORTE, CONTROL Y GESTIÓN EN INTERNET",
+                "nom_eng": "INTERNET TRANSPORT, CONTROL AND MANAGEMENT",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230160",
+                "sigles_ud": "SAD",
+                "nom": "SOFTWARE PER A APLICACIONS DISTRIBUÏDES",
+                "nom_cast": "SOFTWARE PARA APLICACIONES DISTRIBUIDAS",
+                "nom_eng": "SOFTWARE FOR DISTRIBUTED APPLICATIONS",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "3B Menció Sist. Telemàtics",
+        "visibilitat": "PUB",
+        "programa": 1155
+    },
+    {
+        "id": 210,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230026",
+                "sigles_ud": "TPA",
+                "nom": "TECNOLOGIA I PRODUCCIÓ AUDIOVISUAL",
+                "nom_cast": "TECNOLOGÍA Y PRODUCCIÓN AUDIOVISUAL",
+                "nom_eng": "AUDIOVISUAL TECHNOLOGY AND PRODUCTION",
+                "vigent": "S",
+                "dept": "EEL;TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230027",
+                "sigles_ud": "CCAV",
+                "nom": "CODIFICACIÓ DE CONTINGUTS AUDIOVISUALS",
+                "nom_cast": "CODIFICACIÓN DE CONTENIDOS AUDIOVISUALES",
+                "nom_eng": "AUDIOVISUAL CODING",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230210",
+                "sigles_ud": "PAESAV",
+                "nom": "PROJECTE AVANÇAT D'ENGINYERIA DE SISTEMES AUDIOVISUALS",
+                "nom_cast": "PROYECTO AVANZADO DE INGENIERÍA DE SISTEMAS AUDIOVISUALES",
+                "nom_eng": "ADVANCED PROJECT IN AUDIOVISUAL SYSTEMS ENGINEERING",
+                "vigent": "S",
+                "dept": "TSC;DAC;OE",
+                "credits_ects": 12.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "4A Menció Sist. Audiovisuals",
+        "visibilitat": "PUB",
+        "programa": 1155
+    },
+    {
+        "id": 211,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230054",
+                "sigles_ud": "RCOMSISTEL",
+                "nom": "RADIOCOMUNICACIONS",
+                "nom_cast": "RADIOCOMUNICACIONES",
+                "nom_eng": "RADIO COMMUNICATIONS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230260",
+                "sigles_ud": "PAESTLC",
+                "nom": "PROJECTE AVANÇAT D'ENGINYERIA DE SISTEMES DE TELECOMUNICACIÓ",
+                "nom_cast": "PROYECTO AVANZADO DE INGENIERÍA DE SISTEMAS DE TELECOMUNICACIÓN",
+                "nom_eng": "ADVANCED PROJECT IN TELECOMMUNICATION SYSTEMS ENGINEERING",
+                "vigent": "S",
+                "dept": "TSC;EEL;OE",
+                "credits_ects": 12.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "4A Menció Sist Telecomunicació",
+        "visibilitat": "PUB",
+        "programa": 1155
+    },
+    {
+        "id": 212,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230047",
+                "sigles_ud": "DAT",
+                "nom": "DISSENY D'APLICACIONS TELEMÀTIQUES",
+                "nom_cast": "DISEÑO DE APLICACIONES TELEMÁTICAS",
+                "nom_eng": "NETWORK APPLICATION DESIGN",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230161",
+                "sigles_ud": "SSCMOB",
+                "nom": "SISTEMES DE SUPORT A LES COMUNICACIONS MÒBILS",
+                "nom_cast": "SISTEMAS DE SOPORTE A LAS COMUNICACIONES MÓVILES",
+                "nom_eng": "MOBILE COMMUNICATION SUPPORT SYSTEMS",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230162",
+                "sigles_ud": "PAEST",
+                "nom": "PROJECTE AVANÇAT D'ENGINYERIA DE SISTEMES TELEMÀTICS",
+                "nom_cast": "PROYECTO AVANZADO DE INGENIERÍA DE SISTEMAS TELEMÁTICOS",
+                "nom_eng": "ADVANCED PROJECT IN NETWORK SYSTEMS ENGINEERING",
+                "vigent": "S",
+                "dept": "ENTEL;ETSETB;OE;EEL",
+                "credits_ects": 12.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "4A Menció Sist. Telemàtics",
+        "visibilitat": "PUB",
+        "programa": 1155
+    },
+    {
+        "id": 213,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230105",
+                "sigles_ud": "SAM",
+                "nom": "SENSORS, ACTUADORS I MICROCONTROLADORS EN ROBOTS MÒBILS",
+                "nom_cast": "SENSORES, ACTUADORES Y MICROCONTROLADORES EN ROBOTS MÓVILES",
+                "nom_eng": "SENSORS, ACTUATORS AND MICROCONTROLLERS IN MOBILE ROBOTS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230115",
+                "sigles_ud": "EI",
+                "nom": "ELECTRÒNICA INTEL·LIGENT",
+                "nom_cast": "ELECTRÓNICA INTELIGENTE",
+                "nom_eng": "SMART ELECTRONICS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230156",
+                "sigles_ud": "GI",
+                "nom": "GESTIÓ D'INTERNET",
+                "nom_cast": "GESTIÓN DE INTERNET",
+                "nom_eng": "INTERNET MANAGEMENT",
+                "vigent": "N",
+                "dept": "ENTEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230157",
+                "sigles_ud": "SPI",
+                "nom": "SEGURETAT I PRIVADESA DE LA INFORMACIÓ",
+                "nom_cast": "SEGURIDAD Y PRIVACIDAD DE LA INFORMACIÓN",
+                "nom_eng": "INFORMATION SECURITY AND PRIVACY",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230158",
+                "sigles_ud": "BT",
+                "nom": "TECNOLOGIES BLOCKCHAIN",
+                "nom_cast": "TECNOLOGÍAS BLOCKCHAIN",
+                "nom_eng": "BLOCKCHAIN TECHNOLOGIES",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230200",
+                "sigles_ud": "PAM",
+                "nom": "PROGRAMACIÓ D'APLICACIONS MULTIMÈDIA",
+                "nom_cast": "PROGRAMACIÓN DE APLICACIONES MULTIMEDIA",
+                "nom_eng": "PROGRAMMING OF MULTIMEDIA APPLICATIONS",
+                "vigent": "S",
+                "dept": "DAC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230204",
+                "sigles_ud": "DRCAV",
+                "nom": "DESCRIPCIÓ I RECUPERACIÓ DE CONTINGUTS AUDIOVISUALS",
+                "nom_cast": "DESCRIPCIÓN Y RECUPERACIÓN DE CONTENIDOS AUDIOVISUALES",
+                "nom_eng": "DESCRIPTION AND RETRIEVAL OF AUDIOVISUAL CONTENT",
+                "vigent": "S",
+                "dept": "TSC;DAC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230206",
+                "sigles_ud": "MAE",
+                "nom": "MATLAB I LES SEVES APLICACIONS EN ENGINYERIA",
+                "nom_cast": "MATLAB Y SUS APLICACIONES EN INGENIERÍA",
+                "nom_eng": "MATLAB AND ITS APPLICATIONS IN ENGINEERING",
+                "vigent": "S",
+                "dept": "TSC;MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230251",
+                "sigles_ud": "RAD",
+                "nom": "RADAR",
+                "nom_cast": "RADAR",
+                "nom_eng": "RADAR",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230252",
+                "sigles_ud": "TELED",
+                "nom": "SISTEMES D'OBSERVACIÓ DE LA TERRA I TELEDETECCIÓ",
+                "nom_cast": "SISTEMAS DE OBSERVACIÓN DE LA TIERRA Y TELEDETECCIÓN",
+                "nom_eng": "EARTH OBSERVATION SYSTEMS AND REMOTE SENSING",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230253",
+                "sigles_ud": "LCM",
+                "nom": "LABORATORI DE COMUNICACIONS MÒBILS",
+                "nom_cast": "LABORATORIO DE COMUNICACIONES MÓVILES",
+                "nom_eng": "MOBILE COMMUNICATIONS LABORATORY",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230257",
+                "sigles_ud": "TELESP",
+                "nom": "TELECOMUNICACIÓ ESPACIAL",
+                "nom_cast": "TELECOMUNICACIÓN ESPACIAL",
+                "nom_eng": "SPACE TELECOMMUNICATIONS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230261",
+                "sigles_ud": "SON",
+                "nom": "XARXES ÒPTIQUES INTEL·LIGENTS",
+                "nom_cast": "REDES ÓPTICAS INTELIGENTES",
+                "nom_eng": "SMART OPTICAL NETWORKS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230816",
+                "sigles_ud": "BDR",
+                "nom": "BIG DATA I PROGRAMACIÓ EN R",
+                "nom_cast": "BIG DATA Y PROGRAMACIÓN EN R",
+                "nom_eng": "BIG DATA AND R PROGRAMMING",
+                "vigent": "N",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230817",
+                "sigles_ud": "ARAP",
+                "nom": "APRENENTATGE PER REFORÇ I APRENENTATGE PROFUND",
+                "nom_cast": "APRENDIZAJE POR REFUERZO Y APRENDIZAJE PROFUNDO",
+                "nom_eng": "REINFORCEMENT LEARNING AND DEEP LEARNING",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230819",
+                "sigles_ud": "DSBIO",
+                "nom": "CIÈNCIA DE DADES EN BIOINFORMÀTICA I BIOLOGIA COMPUTACIONAL",
+                "nom_cast": "CIENCIA DE DATOS EN BIOINFORMÁTICA Y BIOLOGÍA COMPUTACIONAL",
+                "nom_eng": "DATA SCIENCE IN BIOINFORMATICS AND COMPUTATIONAL BIOLOGY",
+                "vigent": "S",
+                "dept": "ESAII",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "Optatives complementàries",
+        "visibilitat": "PUB",
+        "programa": 1155
+    },
+    {
+        "id": 214,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230300",
+                "sigles_ud": "COMSECRET",
+                "nom": "ÀLGEBRA LINEAL, CODIS LINEALS I ESQUEMES DE COMPARTICIÓ DE SECRETS",
+                "nom_cast": "ÁLGEBRA LINEAL, CÓDIGOS LINEALES Y ESQUEMAS DE COMPARTICIÓN DE SECRETOS",
+                "nom_eng": "LINEAR ALGEBRA, LINEAR CODES AND SECRET-SHARING SCHEMES",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230301",
+                "sigles_ud": "PSPICE",
+                "nom": "SIMULACIÓ I ANÀLISI DE CIRCUITS MITJANÇANT PSPICE",
+                "nom_cast": "SIMULACIÓN Y ANÁLISIS DE CIRCUITOS MEDIANTE PSPICE",
+                "nom_eng": "CIRCUIT SIMULATION AND ANALYSIS USING PSPICE",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230302",
+                "sigles_ud": "SEMER",
+                "nom": "ENERGIES RENOVABLES",
+                "nom_cast": "ENERGÍAS RENOVABLES",
+                "nom_eng": "RENEWABLE ENERGY",
+                "vigent": "N",
+                "dept": "FIS",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230306",
+                "sigles_ud": "K3D",
+                "nom": "3D AMB KINECT, SEMINARI PRÀCTIC",
+                "nom_cast": "3D CON KINECT, SEMINARIO PRÁCTICO",
+                "nom_eng": "3D WITH KINECT, HANDS-ON SEMINAR",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230311",
+                "sigles_ud": "CTFUTUR",
+                "nom": "CREAR EL TEU FUTUR: UN SIMPLE TREBALL O LA TEVA AUTÈNTICA PASSIÓ",
+                "nom_cast": "CREAR TU FUTURO: UN SIMPLE TRABAJO O TU AUTÉNTICA PASIÓN",
+                "nom_eng": "CREATE YOUR FUTURE: JUST A JOB OR YOUR TRUE PASSION",
+                "vigent": "S",
+                "dept": "EEL;ETSETB",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230312",
+                "sigles_ud": "ADMINUX",
+                "nom": "ADMINISTRACIÓ DE SISTEMES LINUX",
+                "nom_cast": "ADMINISTRACIÓN DE SISTEMAS LINUX",
+                "nom_eng": "LINUX SYSTEM ADMINISTRATION",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230316",
+                "sigles_ud": "IMAT",
+                "nom": "INTRODUCCIÓ A LES MATEMÀTIQUES",
+                "nom_cast": "INTRODUCCIÓN A LAS MATEMÁTICAS",
+                "nom_eng": "INTRODUCTION TO MATHEMATICS",
+                "vigent": "N",
+                "dept": "MAT",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230318",
+                "sigles_ud": "PROJ-ICT4D",
+                "nom": "PROJECTE DE COOPERACIÓ AMB TECNOLOGIES WIFI",
+                "nom_cast": "PROYECTO DE COOPERACIÓN CON TECNOLOGÍAS WIFI",
+                "nom_eng": "COOPERATION PROJECT WITH WIFI TECHNOLOGIES",
+                "vigent": "S",
+                "dept": "ENTEL;EEL",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230320",
+                "sigles_ud": "EFPEI",
+                "nom": "L'ENGINYERIA FINANCERA EN LA PLANIFICACIÓ ECONÒMICA D'INVERSIONS",
+                "nom_cast": "LA INGENIERÍA FINANCIERA EN LA PLANIFICACIÓN ECONÓMICA DE INVERSIONES",
+                "nom_eng": "FINANCIAL ENGINEERING FOR FINANCIAL INVESTMENT PLANNING",
+                "vigent": "N",
+                "dept": "ENTEL",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230323",
+                "sigles_ud": "IPER",
+                "nom": "IDENTIFICACIÓ DE PIGMENTS AMB ESPECTROCÒPIA RAMAN",
+                "nom_cast": "IDENTIFICACIÓN DE PIGMENTOS CON ESPECTROSCOPIA RAMAN",
+                "nom_eng": "PIGMENT IDENTIFICATION WITH RAMAN SPECTROSCOPY",
+                "vigent": "N",
+                "dept": "TSC",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230325",
+                "sigles_ud": "IDL",
+                "nom": "INTRODUCCIÓ A L'APRENENTATGE PROFUND",
+                "nom_cast": "INTRODUCCIÓN AL APRENDIZAJE PROFUNDO",
+                "nom_eng": "INTRODUCTION TO DEEP LEARNING",
+                "vigent": "S",
+                "dept": "TSC;CS",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230327",
+                "sigles_ud": "PSM",
+                "nom": "PROCESSAMENT DEL SENYAL MUSICAL",
+                "nom_cast": "PROCESADO DE LA SEÑAL MUSICAL",
+                "nom_eng": "MUSIC SIGNAL PROCESSING",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230328",
+                "sigles_ud": "AP",
+                "nom": "APRENENT AMB PYTHON",
+                "nom_cast": "APRENDIENDO CON PYTHON",
+                "nom_eng": "LEARNING WITH PYTHON",
+                "vigent": "N",
+                "dept": "DAC",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230332",
+                "sigles_ud": "LTDPE",
+                "nom": "LIDERATGE I TÈCNIQUES DE DESENVOLUPAMENT PROFESSIONAL EN L'ENGINYERIA",
+                "nom_cast": "LIDERAZGO Y TÉCNICAS DE DESARROLLO PROFESIONAL EN LA INGENIERÍA",
+                "nom_eng": "LEADERSHIP AND PROFESSIONAL DEVELOPMENT TECHNIQUES IN ENGINEERING",
+                "vigent": "N",
+                "dept": "TSC",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230333",
+                "sigles_ud": "MLSI",
+                "nom": "APRENENTATGE AUTOMÀTIC PER A IMATGES DE  SATÈL·LIT",
+                "nom_cast": "APRENDIZAJE AUTOMÁTICO PARA IMÁGENES SATELITALES",
+                "nom_eng": "MACHINE LEARNING FOR SATELLITE IMAGERY",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230334",
+                "sigles_ud": "ELEAUTO",
+                "nom": "SISTEMES ELECTRÒNICS EN AUTOMOCIÓ",
+                "nom_cast": "SISTEMAS ELECTRÓNICOS EN AUTOMOCIÓN",
+                "nom_eng": "AUTOMOTIVE ELECTRONIC SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230335",
+                "sigles_ud": "ESF",
+                "nom": "ENERGIA SOLAR FOTOVOLTAICA",
+                "nom_cast": "ENERGÍA SOLAR FOTOVOLTAICA",
+                "nom_eng": "PHOTOVOLTAIC SOLAR ENERGY",
+                "vigent": "N",
+                "dept": "EEL",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230336",
+                "sigles_ud": "QTC",
+                "nom": "TECNOLOGIES QUÀNTIQUES PER A LA CIBERSEGURETAT: XARXES I SISTEMES",
+                "nom_cast": "TECNOLOGÍAS CUÁNTICAS PARA LA CIBERSEGURIDAD: REDES Y SISTEMAS",
+                "nom_eng": "QUANTUM TECHNOLOGIES FOR CYBERSECURITY: NETWORKS AND SYSTEMS",
+                "vigent": "N",
+                "dept": "ETSETB",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230337",
+                "sigles_ud": "AIPRAC",
+                "nom": "RESOLUCIÓ DE PROBLEMES AMB INTEL·LIGÈNCIA ARTIFICIAL: UN ENFOCAMENT PRÀCTIC",
+                "nom_cast": "RESOLUCIÓN DE PROBLEMAS CON INTELIGENCIA ARTIFICIAL: UN ENFOQUE PRÁCTICO",
+                "nom_eng": "PROBLEM SOLVING WITH ARTIFICIAL INTELLIGENCE: A PRACTICAL APPROACH",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230338",
+                "sigles_ud": "APATP",
+                "nom": "APRENENTATGE AUTOMÀTIC: DE LA TEORIA A LA PRÀCTICA",
+                "nom_cast": "APRENDIZAJE AUTOMÁTICO: DE LA TEORÍA A LA PRÁCTICA",
+                "nom_eng": "MACHINE LEARNING: FROM THEORY TO PRACTICE",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230339",
+                "sigles_ud": "IMATEC",
+                "nom": "INTRODUCCIÓ A LES MATEMÀTIQUES I A L'ENGINYERIA DE LES TELECOMUNICACIONS",
+                "nom_cast": "INTRODUCCIÓN A LAS MATEMÁTICAS Y A LA INGENIERÍA DE LAS TELECOMUNICACIONES",
+                "nom_eng": "INTRODUCTION TO MATHEMATICS AND TELECOMMUNICATIONS ENGINEERING",
+                "vigent": "S",
+                "dept": "MAT;ENTEL;EEL;TSC",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230340",
+                "sigles_ud": "EE",
+                "nom": "ÈTICA PER A L'ENGINYERIA",
+                "nom_cast": "ÉTICA PARA LA INGENIERÍA",
+                "nom_eng": "ETHICS FOR ENGINEERING",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 2.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "Seminaris",
+        "visibilitat": "PUB",
+        "programa": 1155
+    }
+]

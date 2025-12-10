@@ -1,0 +1,306 @@
+[
+    {
+        "id": 422,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "2301205",
+                "sigles_ud": "SOC",
+                "nom": "DISSENY I VERIFICACIÓ DE SOC",
+                "nom_cast": "DISEÑO Y VERIFICACIÓN DE SOC",
+                "nom_eng": "SOC DESIGN AND VERIFICATION",
+                "vigent": "S",
+                "dept": "UAB;BSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301206",
+                "sigles_ud": "ICPD",
+                "nom": "DISSENY FÍSIC DE CIRCUITS INTEGRATS",
+                "nom_cast": "DISEÑO FÍSICO DE CIRCUITOS INTEGRADOS",
+                "nom_eng": "PHYSICAL DESIGN OF INTEGRATED CIRCUITS",
+                "vigent": "S",
+                "dept": "EEL;UAB;UB",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301207",
+                "sigles_ud": "AICD",
+                "nom": "DISSENY DE CIRCUITS INTEGRATS ANALÒGICS",
+                "nom_cast": "DISEÑO DE CIRCUITOS INTEGRADOS ANALÓGICOS",
+                "nom_eng": "ANALOGUE IC DESIGN",
+                "vigent": "S",
+                "dept": "UAB;UB;ETSETB",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301215",
+                "sigles_ud": "ASIC",
+                "nom": "DISSENY D'ASIC PER A ALTAMENT SEGURS",
+                "nom_cast": "DISEÑO DE ASIC PARA SISTEMAS ALTAMENTE SEGUROS",
+                "nom_eng": "ASIC DESIGN FOR HIGHLY SECURE SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL;DAC;UAB",
+                "credits_ects": 4.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301216",
+                "sigles_ud": "AIPCD",
+                "nom": "DISSENY AVANÇAT DE NUCLIS DE PROPIETAT INTEL·LECTUAL",
+                "nom_cast": "DISEÑO AVANZADO DE NÚCLEOS DE PROPIEDAD INTELECTUAL",
+                "nom_eng": "ADVANCED IP CORE DESIGN",
+                "vigent": "S",
+                "dept": "UAB;DAC",
+                "credits_ects": 4.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301217",
+                "sigles_ud": "RFICD",
+                "nom": "DISSENY DE CIRCUITS INTEGRATS DE RADIOFREQÜÈNCIA",
+                "nom_cast": "DISEÑO DE CIRCUITOS INTEGRADOS DE RADIOFRECUENCIA",
+                "nom_eng": "RF IC DESIGN",
+                "vigent": "S",
+                "dept": "EEL;UAB",
+                "credits_ects": 4.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301218",
+                "sigles_ud": "MSIPD",
+                "nom": "DISSENY D'IPS DE SENYAL MIXT",
+                "nom_cast": "DISEÑO DE IPS DE SEÑAL MIXTA",
+                "nom_eng": "MIXED SIGNAL IP DESIGN",
+                "vigent": "S",
+                "dept": "UAB;UB;ETSETB",
+                "credits_ects": 4.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301219",
+                "sigles_ud": "ISCIRD",
+                "nom": "SENSORS INTEGRATS I CIRCUITS PER A DETECTORS DE RADIACIÓ I IMATGES",
+                "nom_cast": "SENSORES INTEGRADOS Y CIRCUITOS PARA DETECTORES DE RADIACIÓN E IMÁGENES",
+                "nom_eng": "INTEGRATED SENSORS AND CIRCUITS FOR RADIATION DETECTORS AND IMAGERS",
+                "vigent": "S",
+                "dept": "UB;UAB;EEL",
+                "credits_ects": 4.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301220",
+                "sigles_ud": "PMCASIC",
+                "nom": "CIRCUITS PER A LA GESTIÓ D'ENERGIA EN ASIC",
+                "nom_cast": "CIRCUITOS PARA LA GESTIÓN DE ENERGÍA EN ASIC",
+                "nom_eng": "POWER MANAGEMENT CIRCUITS IN ASICS",
+                "vigent": "S",
+                "dept": "EEL;UB",
+                "credits_ects": 4.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "Design",
+        "visibilitat": "GES",
+        "programa": 1564
+    },
+    {
+        "id": 307,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "2301203",
+                "sigles_ud": "PCR",
+                "nom": "ENCAPSULAMENT, CARACTERITZACIÓ I FIABILITAT",
+                "nom_cast": "ENCAPSULADO, CARACTERIZACIÓN Y FIABILIDAD",
+                "nom_eng": "PACKAGING, CHARACTERISATION AND RELIABILITY",
+                "vigent": "S",
+                "dept": "UAB;ETSETB",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301204",
+                "sigles_ud": "SD",
+                "nom": "DISPOSITIUS SEMICONDUCTORS",
+                "nom_cast": "DISPOSITIVOS SEMICONDUCTORES",
+                "nom_eng": "SEMICONDUCTOR DEVICES",
+                "vigent": "S",
+                "dept": "UAB;URV;UB;ETSETB",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301205",
+                "sigles_ud": "SOC",
+                "nom": "DISSENY I VERIFICACIÓ DE SOC",
+                "nom_cast": "DISEÑO Y VERIFICACIÓN DE SOC",
+                "nom_eng": "SOC DESIGN AND VERIFICATION",
+                "vigent": "S",
+                "dept": "UAB;BSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301206",
+                "sigles_ud": "ICPD",
+                "nom": "DISSENY FÍSIC DE CIRCUITS INTEGRATS",
+                "nom_cast": "DISEÑO FÍSICO DE CIRCUITOS INTEGRADOS",
+                "nom_eng": "PHYSICAL DESIGN OF INTEGRATED CIRCUITS",
+                "vigent": "S",
+                "dept": "EEL;UAB;UB",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301207",
+                "sigles_ud": "AICD",
+                "nom": "DISSENY DE CIRCUITS INTEGRATS ANALÒGICS",
+                "nom_cast": "DISEÑO DE CIRCUITOS INTEGRADOS ANALÓGICOS",
+                "nom_eng": "ANALOGUE IC DESIGN",
+                "vigent": "S",
+                "dept": "UAB;UB;ETSETB",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301209",
+                "sigles_ud": "MCH",
+                "nom": "CARACTERITZACIÓ DE MATERIALS",
+                "nom_cast": "CARACTERIZACIÓN DE MATERIALES",
+                "nom_eng": "CHARACTERISATION OF MATERIALS",
+                "vigent": "S",
+                "dept": "UAB;UB",
+                "credits_ects": 4.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301210",
+                "sigles_ud": "FPE",
+                "nom": "ELECTRÒNICA IMPRESA FLEXIBLE",
+                "nom_cast": "ELECTRÓNICA IMPRESA FLEXIBLE",
+                "nom_eng": "FLEXIBLE AND PRINTED ELECTRONICS",
+                "vigent": "S",
+                "dept": "URV;UB;UAB;ETSETB",
+                "credits_ects": 4.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301211",
+                "sigles_ud": "IP",
+                "nom": "FOTÒNICA INTEGRADA",
+                "nom_cast": "FOTÓNICA INTEGRADA",
+                "nom_eng": "INTEGRATED PHOTONICS",
+                "vigent": "S",
+                "dept": "UB;ETSETB",
+                "credits_ects": 4.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301212",
+                "sigles_ud": "MS",
+                "nom": "MICROSENSORS",
+                "nom_cast": "MICROSENSORES",
+                "nom_eng": "MICROSENSORS",
+                "vigent": "S",
+                "dept": "UAB;ETSETB",
+                "credits_ects": 4.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301213",
+                "sigles_ud": "PDS",
+                "nom": "DISPOSITIUS I SISTEMES DE POTÈNCIA",
+                "nom_cast": "DISPOSITIVOS Y SISTEMAS DE POTENCIA",
+                "nom_eng": "POWER DEVICES AND SYSTEMS",
+                "vigent": "S",
+                "dept": "ETSETB",
+                "credits_ects": 4.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301214",
+                "sigles_ud": "ETC",
+                "nom": "TECNOLOGIES EMERGENTS PER A LA COMPUTACIÓ",
+                "nom_cast": "TECNOLOGÍAS EMERGENTES PARA LA COMPUTACIÓN",
+                "nom_eng": "EMERGING TECHNOLOGIES FOR COMPUTING",
+                "vigent": "S",
+                "dept": "UAB;EEL;ETSETB",
+                "credits_ects": 4.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "Manufacturing",
+        "visibilitat": "PUB",
+        "programa": 1564
+    },
+    {
+        "id": 305,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "2301200",
+                "sigles_ud": "MD",
+                "nom": "DISSENY MICROELECTRÒNIC",
+                "nom_cast": "DISEÑO MICROELECTRÓNICO",
+                "nom_eng": "MICROELECTRONIC DESIGN",
+                "vigent": "S",
+                "dept": "DAC;EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301201",
+                "sigles_ud": "MITP",
+                "nom": "TECNOLOGIES I PROCESSOS MICROELECTRÒNICS",
+                "nom_cast": "TECNOLOGÍA Y PROCESOS MICROELECTRÓNICOS",
+                "nom_eng": "MICROELECTRONIC TECHNOLOGIES AND PROCESSES",
+                "vigent": "S",
+                "dept": "UAB;ETSETB",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "Obligatòries Q1. Intèrval",
+        "visibilitat": "PUB",
+        "programa": 1564
+    },
+    {
+        "id": 347,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "2301221",
+                "sigles_ud": "SMIAR",
+                "nom": "SEMINARIS SOBRE INDÚSTRIA MICROELECTRÒNICA I RECERCA AVANÇADA",
+                "nom_cast": "SEMINARIOS SOBRE INDUSTRIA MICROELECTRÓNICA E INVESTIGACIÓN AVANZADA",
+                "nom_eng": "SEMINARS ON MICROELECTRONIC INDUSTRY AND ADVANCED RESEARCH",
+                "vigent": "S",
+                "dept": "ETSETB;DAC;EEL;UAB;UB;URV",
+                "credits_ects": 2.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "Seminari obligatori febrer",
+        "visibilitat": "GES",
+        "programa": 1564
+    },
+    {
+        "id": 319,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "2301208",
+                "sigles_ud": "IEL",
+                "nom": "INNOVACIÓ, EMPRENEDORIA I LIDERATGE",
+                "nom_cast": "INNOVACIÓN, EMPRENDIMIENTO Y LIDERAZGO",
+                "nom_eng": "INNOVATION, ENTREPRENEURSHIP AND LEADERSHIP",
+                "vigent": "S",
+                "dept": "UB",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "Seminari obligatori juny",
+        "visibilitat": "PUB",
+        "programa": 1564
+    }
+]

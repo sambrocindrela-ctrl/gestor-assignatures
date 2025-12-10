@@ -15,6 +15,9 @@ export interface Assignatura {
   // info del bloc
   bloc_id: number | null;
   bloc_nom: string;
-  programa: number | null;
+  programa: string | null;
   visibilitat: string;
+
+  // NEW: Support for dynamic columns (multiple program/block pairs)
+  groups: { programa: string; bloc_nom: string }[];
 }

@@ -1,0 +1,216 @@
+[
+    {
+        "id": 216,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230617",
+                "sigles_ud": "NS",
+                "nom": "SEGURETAT DE XARXA",
+                "nom_cast": "SEGURIDAD DE RED",
+                "nom_eng": "NETWORK SECURITY",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230713",
+                "sigles_ud": "DPROT",
+                "nom": "PROTECCIÓ DE LES DADES",
+                "nom_cast": "PROTECCIÓN DE LOS DATOS",
+                "nom_eng": "DATA PROTECTION",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230715",
+                "sigles_ud": "CSMAGT",
+                "nom": "GESTIÓ DE LA SEGURETAT",
+                "nom_cast": "GESTIÓN DE LA SEGURIDAD",
+                "nom_eng": "CYBERSECURITY MANAGEMENT",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230991",
+                "sigles_ud": "BKCHAIN",
+                "nom": "BLOCKCHAIN",
+                "nom_cast": "BLOCKCHAIN",
+                "nom_eng": "BLOCKCHAIN",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230993",
+                "sigles_ud": "TMA",
+                "nom": "MONITORATGE I ANÀLISI DEL TRÀNSIT DE XARXA",
+                "nom_cast": "MONITORIZACIÓN Y ANÁLISIS DEL TRÁFICO DE RED",
+                "nom_eng": "NETWORK TRAFFIC MONITORING AND ANALYSIS",
+                "vigent": "S",
+                "dept": "DAC",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230994",
+                "sigles_ud": "MALW",
+                "nom": "MALWARE",
+                "nom_cast": "MALWARE",
+                "nom_eng": "MALWARE",
+                "vigent": "S",
+                "dept": "DAC",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230995",
+                "sigles_ud": "AS",
+                "nom": "SEGURETAT EN APLICACIONS",
+                "nom_cast": "SEGURIDAD EN APLICACIONES",
+                "nom_eng": "APPLICATION SECURITY",
+                "vigent": "S",
+                "dept": "DAC",
+                "credits_ects": 5.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "MCYBERS Fall",
+        "visibilitat": "PUB",
+        "programa": 1383
+    },
+    {
+        "id": 217,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230711",
+                "sigles_ud": "UCASES",
+                "nom": "CASOS D'ÚS EN CIBERSEGURETAT",
+                "nom_cast": "CASOS DE USO EN CIBERSEGURIDAD",
+                "nom_eng": "CYBERSECURITY USE CASES",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230714",
+                "sigles_ud": "NSAA",
+                "nom": "SEGURETAT DE XARXA: AUTENTICACIÓ I AUTORITZACIÓ",
+                "nom_cast": "SEGURIDAD DE RED: AUTENTICACIÓN Y AUTORIZACIÓN",
+                "nom_eng": "NETWORK SECURITY: AUTHENTICATION AND AUTHORISATION",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230986",
+                "sigles_ud": "QUAI",
+                "nom": "PRÀCTIQUES EN COMPUTACIÓ QUÀNTICA I INTEL·LIGÈNCIA ARTIFICIAL",
+                "nom_cast": "PRÁCTICAS EN COMPUTACIÓN CUÁNTICA E INTELIGENCIA ARTIFICIAL",
+                "nom_eng": "PRACTICALS IN QUANTUM COMPUTING AND ARTIFICIAL INTELLIGENCE",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230987",
+                "sigles_ud": "SONET",
+                "nom": "XARXES ÒPTIQUES SEGURES",
+                "nom_cast": "REDES ÓPTICAS SEGURAS",
+                "nom_eng": "SECURE OPTICAL NETWORKS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230988",
+                "sigles_ud": "QCRYP",
+                "nom": "CRIPTOGRAFIA QUÀNTICA",
+                "nom_cast": "CRIPTOGRAFÍA CUÁNTICA",
+                "nom_eng": "QUANTUM CRYPTOGRAPHY",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230989",
+                "sigles_ud": "HSES",
+                "nom": "SEGURETAT EN EL HARDWARE DE SISTEMES INCRUSTATS: PRIMITIVES, DEBILITATS I CONTRAMESURES",
+                "nom_cast": "SEGURIDAD EN EL HARDWARE DE SISTEMAS INCRUSTADOS: PRIMITIVAS, DEBILIDADES Y CONTRAMEDIDAS",
+                "nom_eng": "HARDWARE SECURITY IN EMBEDDED SYSTEMS: PRIMITIVES, WEAKNESSES AND COUNTERMEASURES",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230990",
+                "sigles_ud": "DP",
+                "nom": "PRIVADESA DE DADES",
+                "nom_cast": "PRIVACIDAD DE DATOS",
+                "nom_eng": "DATA PRIVACY",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230992",
+                "sigles_ud": "BCMCC",
+                "nom": "CURS BREU EN LES MATEMÀTIQUES DE LA TEORIA DE CODIS I LA CRIPTOGRAFIA",
+                "nom_cast": "CURSO BREVE EN LAS MATEMÁTICAS DE LA TEORÍA DE CÓDIGOS Y LA CRIPTOGRAFÍA",
+                "nom_eng": "BRIEF COURSE ON THE MATHEMATICS BEHIND CODING THEORY AND CRYPTOGRAPHY",
+                "vigent": "N",
+                "dept": "MAT",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230996",
+                "sigles_ud": "SDS",
+                "nom": "SEGURETAT DEFINIDA PER PROGRAMARI (SDS)",
+                "nom_cast": "SEGURIDAD DEFINIDA POR SOFTWARE (SDS)",
+                "nom_eng": "SOFTWARE-DEFINED SECURITY (SDS)",
+                "vigent": "S",
+                "dept": "DAC",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230997",
+                "sigles_ud": "SECON",
+                "nom": "COMUNICACIONS SEGURES EN XARXES DE FIBRA ÒPTICA",
+                "nom_cast": "COMUNICACIONES SEGURAS EN REDES DE FIBRA ÓPTICA",
+                "nom_eng": "SECURE COMMUNICATIONS IN FIBRE OPTIC NETWORKS",
+                "vigent": "N",
+                "dept": "TSC",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230998",
+                "sigles_ud": "QCRIP",
+                "nom": "COMPUTACIÓ I CRIPTOGRAFIA QUÀNTIQUES",
+                "nom_cast": "COMPUTACIÓN Y CRIPTOGRAFÍA CUÁNTICAS",
+                "nom_eng": "QUANTUM COMPUTING AND CRYPTOGRAPHY",
+                "vigent": "N",
+                "dept": "TSC",
+                "credits_ects": 3.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "MCYBERS Spring",
+        "visibilitat": "PUB",
+        "programa": 1383
+    }
+]

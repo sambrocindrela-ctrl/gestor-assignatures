@@ -1,0 +1,471 @@
+[
+    {
+        "id": 70,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230729",
+                "sigles_ud": "CDEL",
+                "nom": "ELECTRÒNICA DIGITAL CONFIGURABLE",
+                "nom_cast": "ELECTRÓNICA DIGITAL CONFIGURABLE",
+                "nom_eng": "CONFIGURABLE DIGITAL ELECTRONICS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230734",
+                "sigles_ud": "FSD",
+                "nom": "FONAMENTS DE DISPOSITIUS SEMICONDUCTORS",
+                "nom_cast": "FUNDAMENTOS DE DISPOSITIVOS SEMICONDUCTORES",
+                "nom_eng": "FUNDAMENTALS OF SEMICONDUCTOR DEVICES",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230736",
+                "sigles_ud": "IMD",
+                "nom": "INTRODUCCIÓ AL DISSENY MICROELECTRÒNIC",
+                "nom_cast": "INTRODUCCIÓN AL DISEÑO MICROELECTRÓNICO",
+                "nom_eng": "INTRODUCTION TO MICROELECTRONIC DESIGN",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230737",
+                "sigles_ud": "IMS",
+                "nom": "INTRODUCCIÓ ALS SISTEMES DE MESURA",
+                "nom_cast": "INTRODUCCIÓN A LOS SISTEMAS DE MEDIDA",
+                "nom_eng": "INTRODUCTION TO MEASUREMENT SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230739",
+                "sigles_ud": "PCPE",
+                "nom": "PRINCIPIS DE CONTROL I ELECTRÒNICA DE POTÈNCIA",
+                "nom_cast": "PRINCIPIOS DE CONTROL Y ELECTRÓNICA DE POTENCIA",
+                "nom_eng": "PRINCIPLES OF CONTROL AND POWER ELECTRONICS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "BRIDGE",
+        "visibilitat": "PUB",
+        "programa": 1476
+    },
+    {
+        "id": 71,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230728",
+                "sigles_ud": "CAPE",
+                "nom": "CONTROL I APLICACIONS EN ELECTRÒNICA DE POTÈNCIA",
+                "nom_cast": "CONTROL Y APLICACIONES EN ELECTRÓNICA DE POTENCIA",
+                "nom_eng": "CONTROL AND APPLICATIONS IN POWER ELECTRONICS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230730",
+                "sigles_ud": "DAMC",
+                "nom": "DISSENY DE CIRCUITS MICROELECTRÒNICS ANALÒGICS",
+                "nom_cast": "DISEÑO DE CIRCUITOS MICROELECTRÓNICOS ANALÓGICOS",
+                "nom_eng": "DESIGN OF ANALOGUE MICROELECTRONIC CIRCUITS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230731",
+                "sigles_ud": "DND",
+                "nom": "DISSENY NANOELECTRÒNIC DIGITAL",
+                "nom_cast": "DISEÑO NANOELECTRÓNICO DIGITAL",
+                "nom_eng": "DIGITAL NANOELECTRONIC DESIGN",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230732",
+                "sigles_ud": "EIWC",
+                "nom": "EMPRENEDORIA I INNOVACIÓ PER ALS REPTES MUNDIALS",
+                "nom_cast": "EMPRENDIMIENTO E INNOVACIÓN PARA LOS RETOS MUNDIALES",
+                "nom_eng": "ENTREPRENEURSHIP AND INNOVATION FOR WORLD CHALLENGES",
+                "vigent": "S",
+                "dept": "EEL;OE;ETSETB",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230733",
+                "sigles_ud": "EMST",
+                "nom": "CIÈNCIA I TECNOLOGIA DE MESURA ELECTRÒNICA",
+                "nom_cast": "CIENCIA Y TECNOLOGÍA DE MEDIDA ELECTRÓNICA",
+                "nom_eng": "ELECTRONIC MEASUREMENT SCIENCE AND TECHNOLOGY",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230735",
+                "sigles_ud": "HDD",
+                "nom": "DISSENY DIGITAL D'ALT NIVELL",
+                "nom_cast": "DISEÑO DIGITAL DE ALTO NIVEL",
+                "nom_eng": "HIGH-LEVEL DIGITAL DESIGN",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230738",
+                "sigles_ud": "NED",
+                "nom": "NANOTECNOLOGIES I DISPOSITIUS ELECTRÒNICS",
+                "nom_cast": "NANOTECNOLOGÍAS Y DISPOSITIVOS ELECTRÓNICOS",
+                "nom_eng": "NANOTECHNOLOGIES AND ELECTRONIC DEVICES",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "CORE",
+        "visibilitat": "PUB",
+        "programa": 1476
+    },
+    {
+        "id": 218,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230639",
+                "sigles_ud": "TAM",
+                "nom": "GESTIÓ DE RECURSOS TECNOLÒGICS",
+                "nom_cast": "GESTIÓN DE RECURSOS TECNOLÓGICOS",
+                "nom_eng": "TECHNOLOGY ASSET MANAGEMENT",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230655",
+                "sigles_ud": "MTP",
+                "nom": "GESTIÓ DE PROJECTES DE TELECOMUNICACIÓ",
+                "nom_cast": "GESTIÓN DE PROYECTOS DE TELECOMUNICACIÓN",
+                "nom_eng": "MANAGEMENT OF TELECOMMUNICATIONS PROJECTS",
+                "vigent": "S",
+                "dept": "DAC;EEL;ENTEL;TSC",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230662",
+                "sigles_ud": "CSAS",
+                "nom": "SISTEMES INTEL·LIGENTS ADAPTATIUS",
+                "nom_cast": "SISTEMAS INTELIGENTES ADAPTATIVOS",
+                "nom_eng": "ADAPTIVE INTELLIGENT SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230663",
+                "sigles_ud": "RICS",
+                "nom": "CIRCUITS INTEGRATS I SISTEMES DE RADIOFREQÜÈNCIA",
+                "nom_cast": "CIRCUITOS INTEGRADOS Y SISTEMAS DE RADIOFRECUENCIA",
+                "nom_eng": "RADIOFREQUENCY INTEGRATED CIRCUITS AND SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230665",
+                "sigles_ud": "AMS",
+                "nom": "DISSENY DE SISTEMES INTEGRATS ANALÒGICS I MIXTOS",
+                "nom_cast": "DISEÑO DE SISTEMAS INTEGRADOS ANALÓGICOS Y MIXTOS",
+                "nom_eng": "ANALOGUE AND MIXED-SIGNAL SYSTEM-ON-CHIP DESIGN",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230667",
+                "sigles_ud": "SCPD",
+                "nom": "DISSENY FÍSIC DE SISTEMES INTEGRATS",
+                "nom_cast": "DISEÑO FÍSICO DE SISTEMAS INTEGRADOS",
+                "nom_eng": "SYSTEM-ON-CHIP PHYSICAL DESIGN",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230669",
+                "sigles_ud": "MEMS",
+                "nom": "SISTEMES MICROELECTROMECÀNICS",
+                "nom_cast": "SISTEMAS MICROELECTROMECÁNICOS",
+                "nom_eng": "MICROELECTROMECHANICAL SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230673",
+                "sigles_ud": "EMC",
+                "nom": "EMC EN DISSENY ELECTRÒNIC",
+                "nom_cast": "EMC EN DISEÑO ELECTRÓNICO",
+                "nom_eng": "EMC IN ELECTRONIC DESIGN",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230675",
+                "sigles_ud": "EDIS",
+                "nom": "GESTIÓ D'ENERGIA EN SISTEMES INTEGRATS I DISTRIBUÏTS",
+                "nom_cast": "GESTIÓN DE ENERGÍA EN SISTEMAS INTEGRADOS Y DISTRIBUIDOS",
+                "nom_eng": "ENERGY MANAGEMENT FOR DISTRIBUTED AND INTEGRATED SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230676",
+                "sigles_ud": "PCRES",
+                "nom": "CONTROL DE POTÈNCIA PER A SISTEMES D'ENERGIES RENOVABLES",
+                "nom_cast": "CONTROL DE POTENCIA PARA SISTEMAS DE ENERGÍAS RENOVABLES",
+                "nom_eng": "POWER CONTROL FOR RENEWABLE ENERGY SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230678",
+                "sigles_ud": "MOSIC",
+                "nom": "MODELITZACIÓ, SIMULACIÓ I CONTROL DE SISTEMES ELECTRÒNICS DE POTÈNCIA",
+                "nom_cast": "MODELIZACIÓN, SIMULACIÓN Y CONTROL DE SISTEMAS ELECTRÓNICOS DE POTENCIA",
+                "nom_eng": "MODELLING, SIMULATION AND CONTROL OF POWER ELECTRONIC SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230679",
+                "sigles_ud": "PVS",
+                "nom": "SISTEMES FOTOVOLTAICS",
+                "nom_cast": "SISTEMAS FOTOVOLTAICOS",
+                "nom_eng": "PHOTOVOLTAIC SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230692",
+                "sigles_ud": "TECHDEV",
+                "nom": "TECNOLOGIES DE FABRICACIÓ I CARACTERITZACIÓ PER A MICRO I NANODISPOSITIUS",
+                "nom_cast": "TECNOLOGÍAS DE FABRICACIÓN Y CARACTERIZACIÓN PARA MICRO Y NANODISPOSITIVOS",
+                "nom_eng": "MANUFACTURING AND CHARACTERISATION TECHNOLOGIES FOR MICRO AND NANODEVICES",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230694",
+                "sigles_ud": "IBES",
+                "nom": "INTRODUCCIÓ ALS SISTEMES ELECTRÒNICS BIOMÈDICS",
+                "nom_cast": "INTRODUCCIÓN A LOS SISTEMAS ELECTRÓNICOS BIOMÉDICOS",
+                "nom_eng": "INTRODUCTION TO BIOMEDICAL ELECTRONIC SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230707",
+                "sigles_ud": "AES",
+                "nom": "SISTEMES INCRUSTATS PER A L'AUTOMOCIÓ",
+                "nom_cast": "SISTEMAS INCRUSTADOS PARA LA AUTOMOCIÓN",
+                "nom_eng": "AUTOMOTIVE EMBEDDED SYSTEMS",
+                "vigent": "S",
+                "dept": "ENTEL;ESSI;BSC;TSC;EEL;ETSETB",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230708",
+                "sigles_ud": "I2P",
+                "nom": "PROJECTE INTERDISCIPLINARI D'INNOVACIÓ",
+                "nom_cast": "PROYECTO INTERDISCIPLINARIO DE INNOVACIÓN",
+                "nom_eng": "INTERDISCIPLINARY INNOVATION PROJECT",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230989",
+                "sigles_ud": "HSES",
+                "nom": "SEGURETAT EN EL HARDWARE DE SISTEMES INCRUSTATS: PRIMITIVES, DEBILITATS I CONTRAMESURES",
+                "nom_cast": "SEGURIDAD EN EL HARDWARE DE SISTEMAS INCRUSTADOS: PRIMITIVAS, DEBILIDADES Y CONTRAMEDIDAS",
+                "nom_eng": "HARDWARE SECURITY IN EMBEDDED SYSTEMS: PRIMITIVES, WEAKNESSES AND COUNTERMEASURES",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 3.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "ELECTIVE",
+        "visibilitat": "PUB",
+        "programa": 1476
+    },
+    {
+        "id": 260,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230361",
+                "sigles_ud": "SCD",
+                "nom": "CÈL·LULES SOLARS PER A INEXPERTS",
+                "nom_cast": "CÉLULAS SOLARES PARA INEXPERTOS",
+                "nom_eng": "SOLAR CELLS FOR DUMMIES",
+                "vigent": "N",
+                "dept": "EEL",
+                "credits_ects": 2.5,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230365",
+                "sigles_ud": "PCBD",
+                "nom": "DISSENY DE PLAQUES DE CIRCUIT IMPRÈS",
+                "nom_cast": "DISEÑO DE PLACAS DE CIRCUITO IMPRESO",
+                "nom_eng": "PRINTED CIRCUIT BOARD DESIGN",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 2.5,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230378",
+                "sigles_ud": "GNSS",
+                "nom": "GRANS CONJUNTS DE DADES GNSS: DE LA PERCEPCIÓ REMOTA A LA CLIMATOLOGIA ESPACIAL",
+                "nom_cast": "GRANDES CONJUNTOS DE DATOS GNSS: DE LA PERCEPCIÓN REMOTA A LA CLIMATOLOGÍA ESPACIAL",
+                "nom_eng": "BIG GNSS DATA: FROM REMOTE SENSING TO SPACE WEATHER",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230382",
+                "sigles_ud": "AI2OT",
+                "nom": "INTEL·LIGÈNCIA ARTIFICIAL I LA INTERNET DE LES COSES (IOT)",
+                "nom_cast": "INTELIGENCIA ARTIFICIAL Y LA INTERNET DE LAS COSAS (IOT)",
+                "nom_eng": "ARTIFICIAL INTELLIGENCE AND INTERNET OF THINGS (IOT)",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230383",
+                "sigles_ud": "ACEND",
+                "nom": "ESTRATÈGIES ALTERNATIVES DE COMPUTACIÓ AMB DISPOSITIUS NANOELECTRÒNICS EMERGENTS",
+                "nom_cast": "ESTRATEGIAS ALTERNATIVAS DE COMPUTACIÓN MEDIANTE DISPOSITIVOS NANOELECTRÓNICOS EMERGENTES",
+                "nom_eng": "ALTERNATIVE COMPUTING STRATEGIES WITH EMERGING NANOELECTRONIC DEVICES",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230387",
+                "sigles_ud": "LABUE",
+                "nom": "LABORATORI D'ELECTRÒNICA PER A ULTRASONS",
+                "nom_cast": "LABORATORIO DE ELECTRÓNICA PARA ULTRASONIDOS",
+                "nom_eng": "ULTRASOUND ELECTRONICS LABORATORY",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230390",
+                "sigles_ud": "WEF",
+                "nom": "PER QUÈ ES BELLUGUEN ELS ELECTRONS: COMPRENSIÓ DE LES CÈL·LULES SOLARS",
+                "nom_cast": "POR QUÉ SE MUEVEN LOS ELECTRONES: COMPRENSIÓN DE LAS CÉLULAS SOLARES",
+                "nom_eng": "WHY ELECTRONS FLOW: UNDERSTANDING SOLAR CELLS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 2.5,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230989",
+                "sigles_ud": "HSES",
+                "nom": "SEGURETAT EN EL HARDWARE DE SISTEMES INCRUSTATS: PRIMITIVES, DEBILITATS I CONTRAMESURES",
+                "nom_cast": "SEGURIDAD EN EL HARDWARE DE SISTEMAS INCRUSTADOS: PRIMITIVAS, DEBILIDADES Y CONTRAMEDIDAS",
+                "nom_eng": "HARDWARE SECURITY IN EMBEDDED SYSTEMS: PRIMITIVES, WEAKNESSES AND COUNTERMEASURES",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 3.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "SEMINARS",
+        "visibilitat": "PUB",
+        "programa": 1476
+    },
+    {
+        "id": 219,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230637",
+                "sigles_ud": "CTC",
+                "nom": "CREATIVITAT I PENSAMENT CRÍTIC",
+                "nom_cast": "CREATIVIDAD Y PENSAMIENTO CRÍTICO",
+                "nom_eng": "CRITICAL THINKING AND CREATIVITY",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230696",
+                "sigles_ud": "MLAB",
+                "nom": "MATLAB: FONAMENTS I/O APLICACIONS",
+                "nom_cast": "MATLAB: FUNDAMENTOS Y/O APLICACIONES",
+                "nom_eng": "MATLAB: FUNDAMENTALS AND/OR APPLICATIONS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 5.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "TRANSVERSALS",
+        "visibilitat": "PUB",
+        "programa": 1476
+    }
+]

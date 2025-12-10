@@ -1,0 +1,528 @@
+[
+    {
+        "id": 215,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230450",
+                "sigles_ud": "CAL1",
+                "nom": "CÀLCUL I",
+                "nom_cast": "CÁLCULO I",
+                "nom_eng": "CALCULUS I",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230451",
+                "sigles_ud": "ALG",
+                "nom": "ÀLGEBRA LINEAL I GEOMETRIA",
+                "nom_cast": "ÁLGEBRA LINEAL Y GEOMETRÍA",
+                "nom_eng": "LINEAR ALGEBRA AND GEOMETRY",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230452",
+                "sigles_ud": "FIS1",
+                "nom": "FÍSICA I",
+                "nom_cast": "FÍSICA I",
+                "nom_eng": "PHYSICS I",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230453",
+                "sigles_ud": "QI",
+                "nom": "QUÍMICA INORGÀNICA",
+                "nom_cast": "QUÍMICA INORGÁNICA",
+                "nom_eng": "INORGANIC CHEMISTRY",
+                "vigent": "S",
+                "dept": "EQ",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230454",
+                "sigles_ud": "MNC1",
+                "nom": "MÈTODES NUMÈRICS I COMPUTACIONALS I",
+                "nom_cast": "MÉTODOS NUMÉRICOS Y COMPUTACIONALES 1",
+                "nom_eng": "NUMERICAL AND COMPUTATIONAL METHODS I",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "1A",
+        "visibilitat": "PUB",
+        "programa": 823
+    },
+    {
+        "id": 277,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230455",
+                "sigles_ud": "CAL2",
+                "nom": "CÀLCUL II",
+                "nom_cast": "CÁLCULO II",
+                "nom_eng": "CALCULUS II",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230456",
+                "sigles_ud": "MM1",
+                "nom": "MÈTODES MATEMÀTICS I",
+                "nom_cast": "MÉTODOS MATEMÁTICOS I",
+                "nom_eng": "MATHEMATICAL METHODS I",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230457",
+                "sigles_ud": "FIS2",
+                "nom": "FÍSICA II",
+                "nom_cast": "FÍSICA II",
+                "nom_eng": "PHYSICS II",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230458",
+                "sigles_ud": "QOB",
+                "nom": "QUÍMICA ORGÀNICA I BIOQUÍMICA",
+                "nom_cast": "QUÍMICA ORGÁNICA Y BIOQUÍMICA",
+                "nom_eng": "ORGANIC CHEMISTRY AND BIOCHEMISTRY",
+                "vigent": "S",
+                "dept": "EQ",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230459",
+                "sigles_ud": "BIOF1",
+                "nom": "BIOFÍSICA I",
+                "nom_cast": "BIOFÍSICA I",
+                "nom_eng": "BIOPHYSICS I",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "1B",
+        "visibilitat": "PUB",
+        "programa": 823
+    },
+    {
+        "id": 278,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230460",
+                "sigles_ud": "PE",
+                "nom": "PROBABILITAT I ESTADÍSTICA",
+                "nom_cast": "PROBABILIDAD Y ESTADÍSTICA",
+                "nom_eng": "PROBABILITY AND STATISTICS",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230461",
+                "sigles_ud": "MM2",
+                "nom": "MÈTODES MATEMÀTICS II",
+                "nom_cast": "MÉTODOS MATEMÁTICOS II",
+                "nom_eng": "MATHEMATICAL METHODS II",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230462",
+                "sigles_ud": "TERMO",
+                "nom": "TERMODINÀMICA",
+                "nom_cast": "TERMODINÁMICA",
+                "nom_eng": "THERMODYNAMICS",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230463",
+                "sigles_ud": "FISQ",
+                "nom": "FÍSICA QUÀNTICA",
+                "nom_cast": "FÍSICA CUÁNTICA",
+                "nom_eng": "QUANTUM PHYSICS",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230467",
+                "sigles_ud": "MEC",
+                "nom": "MECÀNICA",
+                "nom_cast": "MECÁNICA",
+                "nom_eng": "MECHANICS",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "2A",
+        "visibilitat": "PUB",
+        "programa": 823
+    },
+    {
+        "id": 279,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230464",
+                "sigles_ud": "MNC2",
+                "nom": "MÈTODES NUMÈRICS I COMPUTACIONALS II",
+                "nom_cast": "MÉTODOS NUMÉRICOS Y COMPUTACIONALES II",
+                "nom_eng": "NUMERICAL AND COMPUTATIONAL METHODS II",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230465",
+                "sigles_ud": "EMAG",
+                "nom": "ELECTROMAGNETISME",
+                "nom_cast": "ELECTROMAGNETISMO",
+                "nom_eng": "ELECTROMAGNETISM",
+                "vigent": "S",
+                "dept": "TSC;FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230472",
+                "sigles_ud": "TCIRC",
+                "nom": "TEORIA DE CIRCUITS",
+                "nom_cast": "TEORÍA DE CIRCUITOS",
+                "nom_eng": "CIRCUIT THEORY",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230473",
+                "sigles_ud": "FISES",
+                "nom": "FÍSICA ESTADÍSTICA",
+                "nom_cast": "FÍSICA ESTADÍSTICA",
+                "nom_eng": "STATISTICAL PHYSICS",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230476",
+                "sigles_ud": "INSTR",
+                "nom": "INSTRUMENTACIÓ",
+                "nom_cast": "INSTRUMENTACIÓN",
+                "nom_eng": "INSTRUMENTATION",
+                "vigent": "S",
+                "dept": "EEL;FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "2B",
+        "visibilitat": "PUB",
+        "programa": 823
+    },
+    {
+        "id": 280,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230466",
+                "sigles_ud": "PEF1",
+                "nom": "PROJECTES D'ENGINYERIA FÍSICA I",
+                "nom_cast": "PROYECTOS DE INGENIERÍA FÍSICA I",
+                "nom_eng": "ENGINEERING PHYSICS PROJECTS I",
+                "vigent": "S",
+                "dept": "EEL;TSC;FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230469",
+                "sigles_ud": "ES",
+                "nom": "ESTAT SÒLID",
+                "nom_cast": "ESTADO SÓLIDO",
+                "nom_eng": "SOLID STATE",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230470",
+                "sigles_ud": "ONEMAG",
+                "nom": "ONES ELECTROMAGNÈTIQUES",
+                "nom_cast": "ONDAS ELECTROMAGNÉTICAS",
+                "nom_eng": "ELECTROMAGNETIC WAVES",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230474",
+                "sigles_ud": "TS",
+                "nom": "TEORIA DEL SENYAL",
+                "nom_cast": "TEORÍA DE LA SEÑAL",
+                "nom_eng": "SIGNAL THEORY",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230479",
+                "sigles_ud": "BIOF2",
+                "nom": "BIOFÍSICA II",
+                "nom_cast": "BIOFÍSICA II",
+                "nom_eng": "BIOPHYSICS II",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "3A",
+        "visibilitat": "PUB",
+        "programa": 823
+    },
+    {
+        "id": 281,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230468",
+                "sigles_ud": "MECQ",
+                "nom": "MECÀNICA QUÀNTICA",
+                "nom_cast": "MECÁNICA CUÁNTICA",
+                "nom_eng": "QUANTUM MECHANICS",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230471",
+                "sigles_ud": "ELF",
+                "nom": "ELECTRÒNICA FÍSICA",
+                "nom_cast": "ELECTRÓNICA FÍSICA",
+                "nom_eng": "PHYSICAL ELECTRONICS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230475",
+                "sigles_ud": "TCTRL",
+                "nom": "TEORIA DE CONTROL",
+                "nom_cast": "TEORÍA DE CONTROL",
+                "nom_eng": "CONTROL THEORY",
+                "vigent": "S",
+                "dept": "EEL;MAT;DEE",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230477",
+                "sigles_ud": "PEF2",
+                "nom": "PROJECTES D'ENGINYERIA FÍSICA II",
+                "nom_cast": "PROYECTOS DE INGENIERÍA FÍSICA II",
+                "nom_eng": "ENGINEERING PHYSICS PROJECTS II",
+                "vigent": "S",
+                "dept": "EEL;TSC;EQ;FIS;ESAII;MAT;OO;DECA;DAC;ICFO",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230478",
+                "sigles_ud": "FOT",
+                "nom": "FOTÒNICA",
+                "nom_cast": "FOTÓNICA",
+                "nom_eng": "PHOTONICS",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "3B",
+        "visibilitat": "PUB",
+        "programa": 823
+    },
+    {
+        "id": 282,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230481",
+                "sigles_ud": "COMBIO",
+                "nom": "BIOFÍSICA COMPUTACIONAL",
+                "nom_cast": "BIOFÍSICA COMPUTACIONAL",
+                "nom_eng": "COMPUTATIONAL BIOPHYSICS",
+                "vigent": "N",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230482",
+                "sigles_ud": "BIOPHOT",
+                "nom": "FOTÒNICA BIOMÈDICA",
+                "nom_cast": "FOTÓNICA BIOMÉDICA",
+                "nom_eng": "BIOMEDICAL PHOTONICS",
+                "vigent": "S",
+                "dept": "TSC;OO",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230483",
+                "sigles_ud": "QOT",
+                "nom": "TECNOLOGIES D'ÒPTICA QUÀNTICA",
+                "nom_cast": "TECNOLOGÍAS DE ÓPTICA CUÁNTICA",
+                "nom_eng": "QUANTUM OPTICAL TECHNOLOGIES",
+                "vigent": "S",
+                "dept": "TSC;FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230484",
+                "sigles_ud": "NTECH",
+                "nom": "NANOTECNOLOGIA",
+                "nom_cast": "NANOTECNOLOGÍA",
+                "nom_eng": "NANOTECHNOLOGY",
+                "vigent": "S",
+                "dept": "EEL;EQ",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230485",
+                "sigles_ud": "ADMAT",
+                "nom": "MATERIALS AVANÇATS",
+                "nom_cast": "MATERIALES AVANZADOS",
+                "nom_eng": "ADVANCED MATERIALS",
+                "vigent": "S",
+                "dept": "EQ",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230486",
+                "sigles_ud": "SIMCON",
+                "nom": "SIMULACIÓ COMPUTACIONAL DE LA MATÈRIA CONDENSADA",
+                "nom_cast": "SIMULACIÓN COMPUTACIONAL DE LA MATERIA CONDENSADA",
+                "nom_eng": "COMPUTER SIMULATION OF CONDENSED MATTER",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230487",
+                "sigles_ud": "PHYSFLU",
+                "nom": "FÍSICA DE FLUIDS",
+                "nom_cast": "FÍSICA DE FLUIDOS",
+                "nom_eng": "PHYSICS OF FLUIDS",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230488",
+                "sigles_ud": "ASTRO",
+                "nom": "ASTROFÍSICA I COSMOLOGIA",
+                "nom_cast": "ASTROFÍSICA Y COSMOLOGÍA",
+                "nom_eng": "ASTROPHYSICS AND COSMOLOGY",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230489",
+                "sigles_ud": "RELG",
+                "nom": "RELATIVITAT GENERAL",
+                "nom_cast": "RELATIVIDAD GENERAL",
+                "nom_eng": "GENERAL RELATIVITY",
+                "vigent": "S",
+                "dept": "MAT;FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230490",
+                "sigles_ud": "CPIA",
+                "nom": "PROGRAMACIÓ INFORMÀTICA I LES SEVES APLICACIONS",
+                "nom_cast": "PROGRAMACIÓN DE COMPUTADORES Y SUS APLICACIONES",
+                "nom_eng": "COMPUTER PROGRAMMING AND ITS APPLICATIONS",
+                "vigent": "S",
+                "dept": "DAC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230820",
+                "sigles_ud": "ECE",
+                "nom": "ÈTICA EN LA CIÈNCIA I L'ENGINYERIA",
+                "nom_cast": "ÉTICA EN LA CIENCIA Y LA INGENIERÍA",
+                "nom_eng": "ETHICS IN SCIENCE AND ENGINEERING",
+                "vigent": "N",
+                "dept": "EEL;ICE",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "4A Optatives",
+        "visibilitat": "PUB",
+        "programa": 823
+    },
+    {
+        "id": 283,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230336",
+                "sigles_ud": "QTC",
+                "nom": "TECNOLOGIES QUÀNTIQUES PER A LA CIBERSEGURETAT: XARXES I SISTEMES",
+                "nom_cast": "TECNOLOGÍAS CUÁNTICAS PARA LA CIBERSEGURIDAD: REDES Y SISTEMAS",
+                "nom_eng": "QUANTUM TECHNOLOGIES FOR CYBERSECURITY: NETWORKS AND SYSTEMS",
+                "vigent": "N",
+                "dept": "ETSETB",
+                "credits_ects": 2.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "Seminaris",
+        "visibilitat": "PUB",
+        "programa": 823
+    }
+]

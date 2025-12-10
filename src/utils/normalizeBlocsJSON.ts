@@ -38,7 +38,7 @@ export function normalizeBlocsJSON(raw: unknown): NormalizedResult {
     for (const bloc of arr) {
       const blocId = bloc?.id ?? null;
       const blocNom = bloc?.nom ?? "";
-      const programa = bloc?.programa ?? null;
+      const programa = bloc?.programa ? String(bloc.programa) : null;
       const visibilitat = bloc?.visibilitat ?? "";
 
       const uds = bloc?.unitats_docents;
@@ -82,6 +82,7 @@ export function normalizeBlocsJSON(raw: unknown): NormalizedResult {
           programa,
           visibilitat,
           vigent, // 👈 AFEGIT
+          groups: [{ programa: String(programa || ""), bloc_nom: blocNom }],
         });
       }
     }
@@ -94,7 +95,41 @@ export function normalizeBlocsJSON(raw: unknown): NormalizedResult {
     // Deduplicar per codi_upc_ud
     const byCode = new Map<string, Assignatura>();
     for (const s of subjects) {
-      if (!byCode.has(s.codi_upc_ud)) byCode.set(s.codi_upc_ud, s);
+      if (!byCode.has(s.codi_upc_ud)) {
+        byCode.set(s.codi_upc_ud, s);
+      } else {
+        // Ja existeix: comprovem si cal afegir el nom del bloc
+        const existing = byCode.get(s.codi_upc_ud)!;
+
+        // SMART MERGE: Add to groups
+        // Check if this pair (programa, bloc_nom) is already in groups
+        const existsGroup = existing.groups.some(g =>
+          g.programa === (s.programa || "") && g.bloc_nom === s.bloc_nom
+        );
+        if (!existsGroup) {
+          existing.groups.push({
+            programa: String(s.programa || ""),
+            bloc_nom: s.bloc_nom
+          });
+        }
+
+        // Si el bloc nou no està ja a la llista de blocs de l'existent, l'afegim
+        if (s.bloc_nom && !existing.bloc_nom.includes(s.bloc_nom)) {
+          existing.bloc_nom = existing.bloc_nom
+            ? `${existing.bloc_nom}, ${s.bloc_nom}`
+            : s.bloc_nom;
+        }
+
+        // Si el programa nou no està ja a l'existent, l'afegim
+        if (s.programa && existing.programa !== s.programa) {
+          // check if string already contains it
+          if (!existing.programa?.includes(s.programa)) {
+            existing.programa = existing.programa
+              ? `${existing.programa}, ${s.programa}`
+              : s.programa;
+          }
+        }
+      }
     }
 
     const finalList = Array.from(byCode.values());
@@ -148,6 +183,7 @@ export function normalizeBlocsJSON(raw: unknown): NormalizedResult {
         programa: null,
         visibilitat: "",
         vigent, // 👈 AFEGIT
+        groups: [] // No blocks in this format
       });
     }
 

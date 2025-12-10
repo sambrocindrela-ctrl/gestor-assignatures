@@ -1,0 +1,95 @@
+[
+    {
+        "id": 424,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230853",
+                "sigles_ud": "LF",
+                "nom": "GRANS INSTAL·LACIONS: SINCROTRÓ I FONTS DE NEUTRONS",
+                "nom_cast": "GRANDES INSTALACIONES: SINCROTRÓN Y FUENTES DE NEUTRONES",
+                "nom_eng": "LARGE FACILITIES: SYNCHROTRON AND NEUTRON SOURCES",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230856",
+                "sigles_ud": "MLN",
+                "nom": "APRENENTATGE AUTOMÀTIC AMB XARXES NEURONALS",
+                "nom_cast": "APRENDIZAJE AUTOMÁTICO CON REDES NEURONALES",
+                "nom_eng": "MACHINE LEARNING WITH NEURAL NETWORKS",
+                "vigent": "S",
+                "dept": "CS",
+                "credits_ects": 4.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230858",
+                "sigles_ud": "MSM",
+                "nom": "MATÈRIA CONDENSADA MOLECULAR I TOVA",
+                "nom_cast": "MATERIA CONDENSADA MOLECULAR Y BLANDA",
+                "nom_eng": "MOLECULAR AND SOFT CONDENSED MATTER",
+                "vigent": "S",
+                "dept": "FIS;EQ",
+                "credits_ects": 4.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230860",
+                "sigles_ud": "CBS",
+                "nom": "COMPLEXITAT EN SISTEMES BIOLÒGICS",
+                "nom_cast": "COMPLEJIDAD EN SISTEMAS BIOLÓGICOS",
+                "nom_eng": "COMPLEXITY IN BIOLOGICAL SYSTEMS",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 4.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230861",
+                "sigles_ud": "SM",
+                "nom": "MÈTODES ESTOCÀSTICS PER A OPTIMITZACIÓ I SIMULACIÓ",
+                "nom_cast": "MÉTODOS ESTOCÁSTICOS PARA OPTIMIZACIÓN Y SIMULACIÓN",
+                "nom_eng": "STOCHASTIC METHODS FOR OPTIMISATION AND SIMULATION",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 4.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "Block 1 spring (ETSETB)",
+        "visibilitat": "GES",
+        "programa": 1334
+    },
+    {
+        "id": 425,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230864",
+                "sigles_ud": "BMSC",
+                "nom": "CARACTERITZACIÓ EN BIOFÍSICA I CIÈNCIA DE MATERIALS",
+                "nom_cast": "CARACTERIZACIÓN EN BIOFÍSICA Y CIENCIA DE MATERIALES",
+                "nom_eng": "CHARACTERISATION IN BIOPHYSICS AND MATERIALS SCIENCE",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 4.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230865",
+                "sigles_ud": "MSD",
+                "nom": "CIÈNCIA DE MATERIALS EN FÀRMACS",
+                "nom_cast": "CIENCIA DE MATERIALES EN FÁRMACOS",
+                "nom_eng": "PHARMACEUTICAL MATERIALS SCIENCE",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 4.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "Block 2 spring (EEBE)",
+        "visibilitat": "GES",
+        "programa": 1334
+    }
+]

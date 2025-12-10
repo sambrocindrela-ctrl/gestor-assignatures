@@ -1,0 +1,457 @@
+[
+    {
+        "id": 318,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230551",
+                "sigles_ud": "LAB",
+                "nom": "LABORATORI DE FOTÒNICA",
+                "nom_cast": "LABORATORIO DE FOTÓNICA",
+                "nom_eng": "PHOTONICS LABORATORY",
+                "vigent": "S",
+                "dept": "FIS;TSC;OO;UAB;UB",
+                "credits_ects": 5.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "Block 1, 2 and 3",
+        "visibilitat": "PUB",
+        "programa": 953
+    },
+    {
+        "id": 292,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230550",
+                "sigles_ud": "INTRO",
+                "nom": "INTRODUCCIÓ A LA FOTÒNICA: ÒPTICA I LÀSERS",
+                "nom_cast": "INTRODUCCIÓN A LA FOTÓNICA: ÓPTICA Y LÁSERES",
+                "nom_eng": "INTRODUCTION TO PHOTONICS: OPTICS AND LASERS",
+                "vigent": "S",
+                "dept": "FIS;TSC;UAB",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230551",
+                "sigles_ud": "LAB",
+                "nom": "LABORATORI DE FOTÒNICA",
+                "nom_cast": "LABORATORIO DE FOTÓNICA",
+                "nom_eng": "PHOTONICS LABORATORY",
+                "vigent": "S",
+                "dept": "FIS;TSC;OO;UAB;UB",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230553",
+                "sigles_ud": "BEAMFO",
+                "nom": "PROPAGACIÓ DE FEIXOS I ÒPTICA DE FOURIER",
+                "nom_cast": "PROPAGACIÓN DE HACES Y ÓPTICA DE FOURIER",
+                "nom_eng": "BEAM PROPAGATION AND FOURIER OPTICS",
+                "vigent": "S",
+                "dept": "UAB;UB",
+                "credits_ects": 5.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "Block 1A",
+        "visibilitat": "PUB",
+        "programa": 953
+    },
+    {
+        "id": 293,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "2301123",
+                "sigles_ud": "COLIM",
+                "nom": "IMATGE EN COLOR I ESPECTRAL",
+                "nom_cast": "IMAGEN EN COLOR Y ESPECTRAL",
+                "nom_eng": "COLOR AND SPECTRAL IMAGING",
+                "vigent": "S",
+                "dept": "OO",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230550",
+                "sigles_ud": "INTRO",
+                "nom": "INTRODUCCIÓ A LA FOTÒNICA: ÒPTICA I LÀSERS",
+                "nom_cast": "INTRODUCCIÓN A LA FOTÓNICA: ÓPTICA Y LÁSERES",
+                "nom_eng": "INTRODUCTION TO PHOTONICS: OPTICS AND LASERS",
+                "vigent": "S",
+                "dept": "FIS;TSC;UAB",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230551",
+                "sigles_ud": "LAB",
+                "nom": "LABORATORI DE FOTÒNICA",
+                "nom_cast": "LABORATORIO DE FOTÓNICA",
+                "nom_eng": "PHOTONICS LABORATORY",
+                "vigent": "S",
+                "dept": "FIS;TSC;OO;UAB;UB",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230553",
+                "sigles_ud": "BEAMFO",
+                "nom": "PROPAGACIÓ DE FEIXOS I ÒPTICA DE FOURIER",
+                "nom_cast": "PROPAGACIÓN DE HACES Y ÓPTICA DE FOURIER",
+                "nom_eng": "BEAM PROPAGATION AND FOURIER OPTICS",
+                "vigent": "S",
+                "dept": "UAB;UB",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230555",
+                "sigles_ud": "QO",
+                "nom": "ÒPTICA QUÀNTICA",
+                "nom_cast": "ÓPTICA CUÁNTICA",
+                "nom_eng": "QUANTUM OPTICS",
+                "vigent": "S",
+                "dept": "UAB",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230562",
+                "sigles_ud": "MATMETA",
+                "nom": "MATERIALS I METAMATERIALS FOTÒNICS",
+                "nom_cast": "MATERIALES Y METAMATERIALES FOTÓNICOS",
+                "nom_eng": "PHOTONIC MATERIALS AND METAMATERIALS",
+                "vigent": "S",
+                "dept": "UB;FIS",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230566",
+                "sigles_ud": "FIBERS",
+                "nom": "FIBRES I TELECOMUNICACIONS",
+                "nom_cast": "FIBRAS Y TELECOMUNICACIONES",
+                "nom_eng": "FIBRES AND TELECOMMUNICATIONS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230569",
+                "sigles_ud": "PHOTOV",
+                "nom": "OPTOELECTRÒNICA I TECNOLOGIA FOTOVOLTAICA",
+                "nom_cast": "OPTOELECTRÓNICA Y TECNOLOGÍA FOTOVOLTAICA",
+                "nom_eng": "OPTOELECTRONICS AND PHOTOVOLTAIC TECHNOLOGY",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230573",
+                "sigles_ud": "MEASUR",
+                "nom": "MESURANT AMB LLUM",
+                "nom_cast": "MIDIENDO CON LUZ",
+                "nom_eng": "MEASURING WITH LIGHT",
+                "vigent": "S",
+                "dept": "OO",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230579",
+                "sigles_ud": "FCTBEC",
+                "nom": "DES DEL REFREDAMENT I LA CAPTURA D'ÀTOMS NEUTRES FINS ALS CONDENSATS DE BOSE-EINSTEIN",
+                "nom_cast": "DESDE EL ENFRIAMIENTO Y LA CAPTURA DE ÁTOMOS NEUTROS HASTA LOS CONDENSADOS DE BOSE-EINSTEIN",
+                "nom_eng": "FROM COOLING AND TRAPPING OF NEUTRAL ATOMS TO BOSE-EINSTEIN CONDENSATES",
+                "vigent": "S",
+                "dept": "UAB;UB",
+                "credits_ects": 3.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "Block 1B",
+        "visibilitat": "PUB",
+        "programa": 953
+    },
+    {
+        "id": 294,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "2301115",
+                "sigles_ud": "3DLICO",
+                "nom": "CONTROL TRIDIMENSIONAL DE LA LLUM PER A APLICACIONS BIOLÒGIQUES",
+                "nom_cast": "CONTROL TRIDIMENSIONAL DE LA LUZ PARA APLICACIONES BIOLÓGICAS",
+                "nom_eng": "3D LIGHT CONTROL FOR BIOLOGICAL APPLICATIONS",
+                "vigent": "S",
+                "dept": "UB;FIS",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230551",
+                "sigles_ud": "LAB",
+                "nom": "LABORATORI DE FOTÒNICA",
+                "nom_cast": "LABORATORIO DE FOTÓNICA",
+                "nom_eng": "PHOTONICS LABORATORY",
+                "vigent": "S",
+                "dept": "FIS;TSC;OO;UAB;UB",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230552",
+                "sigles_ud": "BUSINE",
+                "nom": "NEGOCI I PATENTS EN FOTÒNICA",
+                "nom_cast": "NEGOCIO Y PATENTES EN FOTÓNICA",
+                "nom_eng": "BUSINESS AND PATENTS IN PHOTONICS",
+                "vigent": "S",
+                "dept": "OO;UB;TSC",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230558",
+                "sigles_ud": "EXPQO",
+                "nom": "ÒPTICA QUÀNTICA AVANÇADA AMB APLICACIONS",
+                "nom_cast": "ÓPTICA CUÁNTICA AVANZADA CON APLICACIONES",
+                "nom_eng": "ADVANCED QUANTUM OPTICS WITH APPLICATIONS",
+                "vigent": "S",
+                "dept": "ICFO;TSC",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230561",
+                "sigles_ud": "IMPROCES",
+                "nom": "TRACTAMENT D'IMATGES EN BIOFOTÒNICA",
+                "nom_cast": "TRATAMIENTO DE IMÁGENES EN BIOFOTÓNICA",
+                "nom_eng": "IMAGE PROCESSING IN BIOPHOTONICS",
+                "vigent": "S",
+                "dept": "OO;UB",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230563",
+                "sigles_ud": "NLO",
+                "nom": "ÒPTICA NO LINEAL",
+                "nom_cast": "ÓPTICA NO LINEAL",
+                "nom_eng": "NON-LINEAR OPTICS",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230567",
+                "sigles_ud": "INTEGR",
+                "nom": "FOTÒNICA INTEGRADA",
+                "nom_cast": "FOTÓNICA INTEGRADA",
+                "nom_eng": "INTEGRATED PHOTONICS",
+                "vigent": "S",
+                "dept": "UB",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230570",
+                "sigles_ud": "LASERS",
+                "nom": "SISTEMES LÀSER I APLICACIONS",
+                "nom_cast": "SISTEMAS LÁSER Y APLICACIONES",
+                "nom_eng": "LASER SYSTEMS AND APPLICATIONS",
+                "vigent": "S",
+                "dept": "UB;FIS",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230578",
+                "sigles_ud": "QS",
+                "nom": "SIMULADORS QUÀNTICS AMB GASOS QUÀNTICS ULTRAFREDS",
+                "nom_cast": "SIMULADORES CUÁNTICOS CON GASES CUÁNTICOS ULTRAFRÍOS",
+                "nom_eng": "QUANTUM SIMULATORS WITH ULTRACOLD QUANTUM GASES",
+                "vigent": "S",
+                "dept": "UB;ICFO;UAB",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230582",
+                "sigles_ud": "VOB",
+                "nom": "ÒPTICA VISUAL I BIOFOTÒNICA",
+                "nom_cast": "ÓPTICA VISUAL I BIOFOTÒNICA",
+                "nom_eng": "VISUAL OPTICS AND BIOPHOTONICS",
+                "vigent": "S",
+                "dept": "OO",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230588",
+                "sigles_ud": "QINTERF",
+                "nom": "INTERFÍCIES LLUM-MATÈRIA QUÀNTIQUES: SISTEMES MODERNS I APLICACIONS",
+                "nom_cast": "INTERFACES LUZ-MATERIA CUÁNTICAS: SISTEMAS MODERNOS Y APLICACIONES",
+                "nom_eng": "QUANTUM LIGHT-MATTER INTERFACES: MODERN SYSTEMS AND APPLICATIONS",
+                "vigent": "S",
+                "dept": "ICFO",
+                "credits_ects": 3.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "Block 2",
+        "visibilitat": "PUB",
+        "programa": 953
+    },
+    {
+        "id": 317,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230551",
+                "sigles_ud": "LAB",
+                "nom": "LABORATORI DE FOTÒNICA",
+                "nom_cast": "LABORATORIO DE FOTÓNICA",
+                "nom_eng": "PHOTONICS LABORATORY",
+                "vigent": "S",
+                "dept": "FIS;TSC;OO;UAB;UB",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230552",
+                "sigles_ud": "BUSINE",
+                "nom": "NEGOCI I PATENTS EN FOTÒNICA",
+                "nom_cast": "NEGOCIO Y PATENTES EN FOTÓNICA",
+                "nom_eng": "BUSINESS AND PATENTS IN PHOTONICS",
+                "vigent": "S",
+                "dept": "OO;UB;TSC",
+                "credits_ects": 5.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "block 2 and 3",
+        "visibilitat": "PUB",
+        "programa": 953
+    },
+    {
+        "id": 295,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "2301116",
+                "sigles_ud": "SEMPHO",
+                "nom": "FOTÒNICA DE SEMICONDUCTORS: APLICACIONS I TECNOLOGIES",
+                "nom_cast": "FOTÓNICA DE SEMICONDUCTORES: APLICACIONES Y TECNOLOGÍAS",
+                "nom_eng": "SEMICONDUCTOR PHOTONICS: APPLICATIONS AND TECHNOLOGY",
+                "vigent": "S",
+                "dept": "EEL;TSC",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "2301117",
+                "sigles_ud": "QBAP",
+                "nom": "APLICACIONS QUÀNTIQUES",
+                "nom_cast": "APLICACIONES CUÁNTICAS",
+                "nom_eng": "QUANTUM APPLICATIONS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230551",
+                "sigles_ud": "LAB",
+                "nom": "LABORATORI DE FOTÒNICA",
+                "nom_cast": "LABORATORIO DE FOTÓNICA",
+                "nom_eng": "PHOTONICS LABORATORY",
+                "vigent": "S",
+                "dept": "FIS;TSC;OO;UAB;UB",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230552",
+                "sigles_ud": "BUSINE",
+                "nom": "NEGOCI I PATENTS EN FOTÒNICA",
+                "nom_cast": "NEGOCIO Y PATENTES EN FOTÓNICA",
+                "nom_eng": "BUSINESS AND PATENTS IN PHOTONICS",
+                "vigent": "S",
+                "dept": "OO;UB;TSC",
+                "credits_ects": 5.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230554",
+                "sigles_ud": "EOTB",
+                "nom": "TÈCNIQUES ÒPTIQUES EXPERIMENTALS EN BIOLOGIA",
+                "nom_cast": "TÉCNICAS ÓPTICAS EXPERIMENTALES EN BIOLOGÍA",
+                "nom_eng": "EXPERIMENTAL OPTICAL TECHNIQUES IN BIOLOGY",
+                "vigent": "S",
+                "dept": "ICFO;TSC",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230564",
+                "sigles_ud": "NANO",
+                "nom": "NANOFOTÒNICA",
+                "nom_cast": "NANOFOTÓNICA",
+                "nom_eng": "NANOPHOTONICS",
+                "vigent": "S",
+                "dept": "ICFO;TSC;FIS",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230565",
+                "sigles_ud": "ULTRA",
+                "nom": "LLUM LÀSER ULTRARÀPIDA I ULTRAINTENSA",
+                "nom_cast": "LUZ LÁSER ULTRARRÁPIDA Y ULTRAINTENSA",
+                "nom_eng": "ULTRAFAST AND ULTRAINTENSE LASER LIGHT",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230572",
+                "sigles_ud": "MANAGL",
+                "nom": "GESTIONANT LA LLUM AMB DISPOSITIUS",
+                "nom_cast": "GESTIONANDO LA LUZ CON DISPOSITIVOS",
+                "nom_eng": "MANAGING LIGHT WITH DEVICES",
+                "vigent": "S",
+                "dept": "OO",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230584",
+                "sigles_ud": "ML",
+                "nom": "APRENENTATGE AUTOMÀTIC PER A DADES CLÀSSIQUES I QUÀNTIQUES",
+                "nom_cast": "APRENDIZAJE AUTOMÁTICO PARA DATOS CLÁSICOS Y CUÁNTICOS",
+                "nom_eng": "CLASSICAL AND QUANTUM MACHINE LEARNING",
+                "vigent": "S",
+                "dept": "UAB;UB",
+                "credits_ects": 3.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230587",
+                "sigles_ud": "OD",
+                "nom": "DISSENY ÒPTIC",
+                "nom_cast": "DISEÑO ÓPTICO",
+                "nom_eng": "OPTICAL DESIGN",
+                "vigent": "S",
+                "dept": "OO",
+                "credits_ects": 3.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "Block 3",
+        "visibilitat": "PUB",
+        "programa": 953
+    }
+]

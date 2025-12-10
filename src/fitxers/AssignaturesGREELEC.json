@@ -1,0 +1,712 @@
+[
+    {
+        "id": 247,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230900",
+                "sigles_ud": "CCE",
+                "nom": "COMPONENTS I CIRCUITS ELECTRÒNICS",
+                "nom_cast": "COMPONENTES Y CIRCUITOS ELECTRÓNICOS",
+                "nom_eng": "ELECTRONIC COMPONENTS AND CIRCUITS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230901",
+                "sigles_ud": "APR",
+                "nom": "ALGORÍSMIA I PROGRAMACIÓ",
+                "nom_cast": "ALGORITMIA Y PROGRAMACIÓN",
+                "nom_eng": "ALGORITHMS AND PROGRAMMING",
+                "vigent": "S",
+                "dept": "DAC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230902",
+                "sigles_ud": "F",
+                "nom": "FÍSICA",
+                "nom_cast": "FÍSICA",
+                "nom_eng": "PHYSICS",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230903",
+                "sigles_ud": "C",
+                "nom": "CÀLCUL",
+                "nom_cast": "CÁLCULO",
+                "nom_eng": "CALCULUS",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230904",
+                "sigles_ud": "ALN",
+                "nom": "ÀLGEBRA LINEAL",
+                "nom_cast": "ÁLGEBRA LINEAL",
+                "nom_eng": "LINEAR ALGEBRA",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "1A",
+        "visibilitat": "PUB",
+        "programa": 1328
+    },
+    {
+        "id": 253,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230905",
+                "sigles_ud": "AC",
+                "nom": "ANÀLISI DE CIRCUITS",
+                "nom_cast": "ANÁLISIS DE CIRCUITOS",
+                "nom_eng": "CIRCUIT ANALYSIS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230906",
+                "sigles_ud": "PRD",
+                "nom": "PROGRAMACIÓ I ESTRUCTURES DE DADES",
+                "nom_cast": "PROGRAMACIÓN Y ESTRUCTURAS DE DATOS",
+                "nom_eng": "PROGRAMMING AND DATA STRUCTURES",
+                "vigent": "S",
+                "dept": "DAC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230907",
+                "sigles_ud": "EMG",
+                "nom": "ELECTROMAGNETISME",
+                "nom_cast": "ELECTROMAGNETISMO",
+                "nom_eng": "ELECTROMAGNETISM",
+                "vigent": "S",
+                "dept": "FIS",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230908",
+                "sigles_ud": "CVEC",
+                "nom": "CÀLCUL VECTORIAL",
+                "nom_cast": "CÁLCULO VECTORIAL",
+                "nom_eng": "VECTOR CALCULUS",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230909",
+                "sigles_ud": "EDT",
+                "nom": "EQUACIONS DIFERENCIALS I TRANSFORMADES",
+                "nom_cast": "ECUACIONES DIFERENCIALES Y TRANSFORMADAS",
+                "nom_eng": "DIFFERENTIAL EQUATIONS AND TRANSFORMS",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "1B",
+        "visibilitat": "PUB",
+        "programa": 1328
+    },
+    {
+        "id": 248,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230910",
+                "sigles_ud": "DE",
+                "nom": "DISPOSITIUS ELECTRÒNICS",
+                "nom_cast": "DISPOSITIVOS ELECTRÓNICOS",
+                "nom_eng": "ELECTRONIC DEVICES",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230911",
+                "sigles_ud": "DD",
+                "nom": "DISSENY DIGITAL",
+                "nom_cast": "DISEÑO DIGITAL",
+                "nom_eng": "DIGITAL DESIGN",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230912",
+                "sigles_ud": "EAFO",
+                "nom": "ELECTROMAGNETISME APLICAT I FOTÒNICA",
+                "nom_cast": "ELECTROMAGNETISMO APLICADO Y FOTÓNICA",
+                "nom_eng": "APPLIED ELECTROMAGNETISM AND PHOTONICS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230913",
+                "sigles_ud": "SST",
+                "nom": "SENYALS I SISTEMES",
+                "nom_cast": "SEÑALES Y SISTEMAS",
+                "nom_eng": "SIGNALS AND SYSTEMS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230914",
+                "sigles_ud": "PPE",
+                "nom": "PROBABILITAT I PROCESSOS ESTOCÀSTICS",
+                "nom_cast": "PROBABILIDAD Y PROCESOS ESTOCÁSTICOS",
+                "nom_eng": "PROBABILITY AND STOCHASTIC PROCESSES",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "2A",
+        "visibilitat": "PUB",
+        "programa": 1328
+    },
+    {
+        "id": 254,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230915",
+                "sigles_ud": "CA",
+                "nom": "CIRCUITS ANALÒGICS",
+                "nom_cast": "CIRCUITOS ANALÓGICOS",
+                "nom_eng": "ANALOGUE CIRCUITS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230916",
+                "sigles_ud": "EMB",
+                "nom": "SISTEMES INCRUSTATS",
+                "nom_cast": "SISTEMAS EMBEBIDOS",
+                "nom_eng": "EMBEDDED SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230917",
+                "sigles_ud": "ICAF",
+                "nom": "INTRODUCCIÓ ALS CIRCUITS D'ALTA FREQÜÈNCIA",
+                "nom_cast": "INTRODUCCIÓN A LOS CIRCUITOS DE ALTA FRECUENCIA",
+                "nom_eng": "INTRODUCTION TO HIGH FREQUENCY CIRCUITS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230918",
+                "sigles_ud": "TRS",
+                "nom": "TRACTAMENT DEL SENYAL",
+                "nom_cast": "TRATAMIENTO DE LA SEÑAL",
+                "nom_eng": "SIGNAL PROCESSING",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230919",
+                "sigles_ud": "EP",
+                "nom": "EMPRESA I PROJECTES",
+                "nom_cast": "EMPRESA Y PROYECTOS",
+                "nom_eng": "BUSINESS AND PROJECT MANAGEMENT",
+                "vigent": "S",
+                "dept": "EEL;OE",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "2B",
+        "visibilitat": "PUB",
+        "programa": 1328
+    },
+    {
+        "id": 249,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230920",
+                "sigles_ud": "SM",
+                "nom": "SISTEMES DE MESURA",
+                "nom_cast": "SISTEMAS DE MEDIDA",
+                "nom_eng": "MEASUREMENT SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230921",
+                "sigles_ud": "SDC",
+                "nom": "SISTEMES DIGITALS CONFIGURABLES",
+                "nom_cast": "SISTEMAS DIGITALES CONFIGURABLES",
+                "nom_eng": "CONFIGURABLE DIGITAL SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230922",
+                "sigles_ud": "CIAF",
+                "nom": "CIRCUITS D'ALTA FREQÜÈNCIA",
+                "nom_cast": "CIRCUITOS DE ALTA FRECUENCIA",
+                "nom_eng": "HIGH FREQUENCY CIRCUITS",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230923",
+                "sigles_ud": "CEM",
+                "nom": "CIÈNCIA I ENGINYERIA DE MATERIALS",
+                "nom_cast": "CIENCIA E INGENIERIA DE MATERIALES",
+                "nom_eng": "MATERIALS SCIENCE AND ENGINEERING",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230924",
+                "sigles_ud": "CTR",
+                "nom": "SISTEMES DE CONTROL",
+                "nom_cast": "SISTEMAS DE CONTROL",
+                "nom_eng": "CONTROL SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "3A",
+        "visibilitat": "PUB",
+        "programa": 1328
+    },
+    {
+        "id": 255,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230925",
+                "sigles_ud": "IOT",
+                "nom": "INTERNET DE LES COSES",
+                "nom_cast": "INTERNET DE LAS COSAS",
+                "nom_eng": "INTERNET OF THINGS",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230926",
+                "sigles_ud": "RT",
+                "nom": "SISTEMES EN TEMPS REAL",
+                "nom_cast": "SISTEMAS EN TIEMPO REAL",
+                "nom_eng": "REAL-TIME SYSTEMS",
+                "vigent": "S",
+                "dept": "DAC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230927",
+                "sigles_ud": "PEE",
+                "nom": "PROCESSAMENT DE L'ENERGIA ELÈCTRICA",
+                "nom_cast": "PROCESADO DE LA ENERGÍA ELÉCTRICA",
+                "nom_eng": "ELECTRIC POWER PROCESSING",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230928",
+                "sigles_ud": "TEL",
+                "nom": "TECNOLOGIA ELECTRÒNICA",
+                "nom_cast": "TECNOLOGÍA ELECTRÓNICA",
+                "nom_eng": "ELECTRONIC TECHNOLOGY",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230929",
+                "sigles_ud": "TEM",
+                "nom": "TÈCNIQUES PER A L'EMPRENEDORIA",
+                "nom_cast": "TÉCNICAS PARA EL EMPRENDIMIENTO",
+                "nom_eng": "TECHNIQUES FOR ENTREPRENEURSHIP",
+                "vigent": "S",
+                "dept": "EEL;OE",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "3B",
+        "visibilitat": "PUB",
+        "programa": 1328
+    },
+    {
+        "id": 250,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230930",
+                "sigles_ud": "DMIC",
+                "nom": "DISSENY MICROELECTRÒNIC",
+                "nom_cast": "DISEÑO MICROELECTRÓNICO",
+                "nom_eng": "MICROELECTRONIC DESIGN",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230931",
+                "sigles_ud": "HIPS",
+                "nom": "SISTEMES DE HARDWARE DE PROCESSAMENT DE LA INFORMACIÓ",
+                "nom_cast": "SISTEMAS DE HARDWARE DE PROCESADO DE LA INFORMACIÓN",
+                "nom_eng": "INFORMATION PROCESSING HARDWARE SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230932",
+                "sigles_ud": "INT",
+                "nom": "INTEGRACIÓ DE SISTEMES",
+                "nom_cast": "INTEGRACIÓN DE SISTEMAS",
+                "nom_eng": "SYSTEM INTEGRATION",
+                "vigent": "S",
+                "dept": "EEL;OE",
+                "credits_ects": 12.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "4A",
+        "visibilitat": "PUB",
+        "programa": 1328
+    },
+    {
+        "id": 251,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230105",
+                "sigles_ud": "SAM",
+                "nom": "SENSORS, ACTUADORS I MICROCONTROLADORS EN ROBOTS MÒBILS",
+                "nom_cast": "SENSORES, ACTUADORES Y MICROCONTROLADORES EN ROBOTS MÓVILES",
+                "nom_eng": "SENSORS, ACTUATORS AND MICROCONTROLLERS IN MOBILE ROBOTS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230107",
+                "sigles_ud": "EA",
+                "nom": "ELECTRÒNICA DE L'AUTOMÒBIL",
+                "nom_cast": "ELECTRÓNICA DEL AUTOMÓVIL",
+                "nom_eng": "AUTOMOBILE ELECTRONICS",
+                "vigent": "N",
+                "dept": "TSC;EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230115",
+                "sigles_ud": "EI",
+                "nom": "ELECTRÒNICA INTEL·LIGENT",
+                "nom_cast": "ELECTRÓNICA INTELIGENTE",
+                "nom_eng": "SMART ELECTRONICS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230152",
+                "sigles_ud": "CSI",
+                "nom": "CODIFICACIÓ I SEGURETAT DE LA INFORMACIÓ",
+                "nom_cast": "CODIFICACIÓN Y SEGURIDAD DE LA INFORMACIÓN",
+                "nom_eng": "INFORMATION SECURITY AND CODING",
+                "vigent": "N",
+                "dept": "ENTEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230156",
+                "sigles_ud": "GI",
+                "nom": "GESTIÓ D'INTERNET",
+                "nom_cast": "GESTIÓN DE INTERNET",
+                "nom_eng": "INTERNET MANAGEMENT",
+                "vigent": "N",
+                "dept": "ENTEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230157",
+                "sigles_ud": "SPI",
+                "nom": "SEGURETAT I PRIVADESA DE LA INFORMACIÓ",
+                "nom_cast": "SEGURIDAD Y PRIVACIDAD DE LA INFORMACIÓN",
+                "nom_eng": "INFORMATION SECURITY AND PRIVACY",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230206",
+                "sigles_ud": "MAE",
+                "nom": "MATLAB I LES SEVES APLICACIONS EN ENGINYERIA",
+                "nom_cast": "MATLAB Y SUS APLICACIONES EN INGENIERÍA",
+                "nom_eng": "MATLAB AND ITS APPLICATIONS IN ENGINEERING",
+                "vigent": "S",
+                "dept": "TSC;MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230816",
+                "sigles_ud": "BDR",
+                "nom": "BIG DATA I PROGRAMACIÓ EN R",
+                "nom_cast": "BIG DATA Y PROGRAMACIÓN EN R",
+                "nom_eng": "BIG DATA AND R PROGRAMMING",
+                "vigent": "N",
+                "dept": "MAT",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230817",
+                "sigles_ud": "ARAP",
+                "nom": "APRENENTATGE PER REFORÇ I APRENENTATGE PROFUND",
+                "nom_cast": "APRENDIZAJE POR REFUERZO Y APRENDIZAJE PROFUNDO",
+                "nom_eng": "REINFORCEMENT LEARNING AND DEEP LEARNING",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 6.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230820",
+                "sigles_ud": "ECE",
+                "nom": "ÈTICA EN LA CIÈNCIA I L'ENGINYERIA",
+                "nom_cast": "ÉTICA EN LA CIENCIA Y LA INGENIERÍA",
+                "nom_eng": "ETHICS IN SCIENCE AND ENGINEERING",
+                "vigent": "N",
+                "dept": "EEL;ICE",
+                "credits_ects": 6.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "Optatives",
+        "visibilitat": "PUB",
+        "programa": 1328
+    },
+    {
+        "id": 252,
+        "unitats_docents": [
+            {
+                "codi_upc_ud": "230300",
+                "sigles_ud": "COMSECRET",
+                "nom": "ÀLGEBRA LINEAL, CODIS LINEALS I ESQUEMES DE COMPARTICIÓ DE SECRETS",
+                "nom_cast": "ÁLGEBRA LINEAL, CÓDIGOS LINEALES Y ESQUEMAS DE COMPARTICIÓN DE SECRETOS",
+                "nom_eng": "LINEAR ALGEBRA, LINEAR CODES AND SECRET-SHARING SCHEMES",
+                "vigent": "S",
+                "dept": "MAT",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230301",
+                "sigles_ud": "PSPICE",
+                "nom": "SIMULACIÓ I ANÀLISI DE CIRCUITS MITJANÇANT PSPICE",
+                "nom_cast": "SIMULACIÓN Y ANÁLISIS DE CIRCUITOS MEDIANTE PSPICE",
+                "nom_eng": "CIRCUIT SIMULATION AND ANALYSIS USING PSPICE",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230302",
+                "sigles_ud": "SEMER",
+                "nom": "ENERGIES RENOVABLES",
+                "nom_cast": "ENERGÍAS RENOVABLES",
+                "nom_eng": "RENEWABLE ENERGY",
+                "vigent": "N",
+                "dept": "FIS",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230311",
+                "sigles_ud": "CTFUTUR",
+                "nom": "CREAR EL TEU FUTUR: UN SIMPLE TREBALL O LA TEVA AUTÈNTICA PASSIÓ",
+                "nom_cast": "CREAR TU FUTURO: UN SIMPLE TRABAJO O TU AUTÉNTICA PASIÓN",
+                "nom_eng": "CREATE YOUR FUTURE: JUST A JOB OR YOUR TRUE PASSION",
+                "vigent": "S",
+                "dept": "EEL;ETSETB",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230312",
+                "sigles_ud": "ADMINUX",
+                "nom": "ADMINISTRACIÓ DE SISTEMES LINUX",
+                "nom_cast": "ADMINISTRACIÓN DE SISTEMAS LINUX",
+                "nom_eng": "LINUX SYSTEM ADMINISTRATION",
+                "vigent": "S",
+                "dept": "ENTEL",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230316",
+                "sigles_ud": "IMAT",
+                "nom": "INTRODUCCIÓ A LES MATEMÀTIQUES",
+                "nom_cast": "INTRODUCCIÓN A LAS MATEMÁTICAS",
+                "nom_eng": "INTRODUCTION TO MATHEMATICS",
+                "vigent": "N",
+                "dept": "MAT",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230318",
+                "sigles_ud": "PROJ-ICT4D",
+                "nom": "PROJECTE DE COOPERACIÓ AMB TECNOLOGIES WIFI",
+                "nom_cast": "PROYECTO DE COOPERACIÓN CON TECNOLOGÍAS WIFI",
+                "nom_eng": "COOPERATION PROJECT WITH WIFI TECHNOLOGIES",
+                "vigent": "S",
+                "dept": "ENTEL;EEL",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230320",
+                "sigles_ud": "EFPEI",
+                "nom": "L'ENGINYERIA FINANCERA EN LA PLANIFICACIÓ ECONÒMICA D'INVERSIONS",
+                "nom_cast": "LA INGENIERÍA FINANCIERA EN LA PLANIFICACIÓN ECONÓMICA DE INVERSIONES",
+                "nom_eng": "FINANCIAL ENGINEERING FOR FINANCIAL INVESTMENT PLANNING",
+                "vigent": "N",
+                "dept": "ENTEL",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230323",
+                "sigles_ud": "IPER",
+                "nom": "IDENTIFICACIÓ DE PIGMENTS AMB ESPECTROCÒPIA RAMAN",
+                "nom_cast": "IDENTIFICACIÓN DE PIGMENTOS CON ESPECTROSCOPIA RAMAN",
+                "nom_eng": "PIGMENT IDENTIFICATION WITH RAMAN SPECTROSCOPY",
+                "vigent": "N",
+                "dept": "TSC",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230325",
+                "sigles_ud": "IDL",
+                "nom": "INTRODUCCIÓ A L'APRENENTATGE PROFUND",
+                "nom_cast": "INTRODUCCIÓN AL APRENDIZAJE PROFUNDO",
+                "nom_eng": "INTRODUCTION TO DEEP LEARNING",
+                "vigent": "S",
+                "dept": "TSC;CS",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230332",
+                "sigles_ud": "LTDPE",
+                "nom": "LIDERATGE I TÈCNIQUES DE DESENVOLUPAMENT PROFESSIONAL EN L'ENGINYERIA",
+                "nom_cast": "LIDERAZGO Y TÉCNICAS DE DESARROLLO PROFESIONAL EN LA INGENIERÍA",
+                "nom_eng": "LEADERSHIP AND PROFESSIONAL DEVELOPMENT TECHNIQUES IN ENGINEERING",
+                "vigent": "N",
+                "dept": "TSC",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230334",
+                "sigles_ud": "ELEAUTO",
+                "nom": "SISTEMES ELECTRÒNICS EN AUTOMOCIÓ",
+                "nom_cast": "SISTEMAS ELECTRÓNICOS EN AUTOMOCIÓN",
+                "nom_eng": "AUTOMOTIVE ELECTRONIC SYSTEMS",
+                "vigent": "S",
+                "dept": "EEL",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230335",
+                "sigles_ud": "ESF",
+                "nom": "ENERGIA SOLAR FOTOVOLTAICA",
+                "nom_cast": "ENERGÍA SOLAR FOTOVOLTAICA",
+                "nom_eng": "PHOTOVOLTAIC SOLAR ENERGY",
+                "vigent": "N",
+                "dept": "EEL",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230336",
+                "sigles_ud": "QTC",
+                "nom": "TECNOLOGIES QUÀNTIQUES PER A LA CIBERSEGURETAT: XARXES I SISTEMES",
+                "nom_cast": "TECNOLOGÍAS CUÁNTICAS PARA LA CIBERSEGURIDAD: REDES Y SISTEMAS",
+                "nom_eng": "QUANTUM TECHNOLOGIES FOR CYBERSECURITY: NETWORKS AND SYSTEMS",
+                "vigent": "N",
+                "dept": "ETSETB",
+                "credits_ects": 2.0,
+                "centre": "230"
+            },
+            {
+                "codi_upc_ud": "230337",
+                "sigles_ud": "AIPRAC",
+                "nom": "RESOLUCIÓ DE PROBLEMES AMB INTEL·LIGÈNCIA ARTIFICIAL: UN ENFOCAMENT PRÀCTIC",
+                "nom_cast": "RESOLUCIÓN DE PROBLEMAS CON INTELIGENCIA ARTIFICIAL: UN ENFOQUE PRÁCTICO",
+                "nom_eng": "PROBLEM SOLVING WITH ARTIFICIAL INTELLIGENCE: A PRACTICAL APPROACH",
+                "vigent": "S",
+                "dept": "TSC",
+                "credits_ects": 2.0,
+                "centre": "230"
+            }
+        ],
+        "nom": "Seminaris",
+        "visibilitat": "PUB",
+        "programa": 1328
+    }
+]

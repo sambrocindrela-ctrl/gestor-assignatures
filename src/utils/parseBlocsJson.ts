@@ -38,7 +38,7 @@ export function parseBlocsJson(raw: unknown): Assignatura[] {
   for (const bloc of blocs) {
     const blocId = bloc.id ?? null;
     const blocNom = bloc.nom ?? "";
-    const programa = bloc.programa ?? null;
+    const programa = bloc.programa ? String(bloc.programa) : null;
     const visibilitat = bloc.visibilitat ?? "";
 
     const uds = bloc.unitats_docents ?? [];
@@ -62,6 +62,7 @@ export function parseBlocsJson(raw: unknown): Assignatura[] {
         dept: ud.dept ?? "",
         credits_ects: ud.credits_ects ?? 0,
         centre: ud.centre ?? "",
+        groups: [{ programa: String(programa || ""), bloc_nom: blocNom }],
       });
     }
   }
