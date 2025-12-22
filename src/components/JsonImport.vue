@@ -6,7 +6,7 @@ import { normalizeBlocsJSON } from "../utils/normalizeBlocsJSON";
 import { compareWithCsv, type ComparisonResult } from "../utils/compareOffer";
 import { exportSubjectsToExcel } from "../utils/exportToExcel";
 import { useGitHub } from "../composables/useGitHub";
-import { getRepoContent, saveRepoContent } from "../services/github";
+import { getRepoContent, saveRepoContent, getRepoFiles } from "../services/github";
 import SubjectsTable from "./SubjectsTable.vue";
 import AddSubjectForm from "./AddSubjectForm.vue";
 
@@ -20,6 +20,7 @@ const isLoadingGitHub = ref(false);
 const isSavingGitHub = ref(false);
 const statusMessage = ref("");
 const currentSha = ref(""); // To track file version for updates
+const availableFiles = ref<{ name: string; path: string }[]>([]);
 
 // Estat per a la comparació
 const comparisonResult = ref<ComparisonResult | null>(null);
@@ -28,7 +29,56 @@ const comparisonError = ref("");
 // Init
 onMounted(() => {
   loadSettings();
+  if (settings.value.token) {
+    handleFetchFiles();
+  }
 });
+
+async function handleFetchFiles() {
+    if (!settings.value.token || !settings.value.owner || !settings.value.repo) return;
+    try {
+        // Assume files are in the same folder as the configured path, or root if path is empty
+        const dir = settings.value.path.includes("/") 
+            ? settings.value.path.substring(0, settings.value.path.lastIndexOf("/")) 
+            : "src/fitxers"; // Default fallback
+            
+        const files = await getRepoFiles(
+            settings.value.owner,
+            settings.value.repo,
+            dir,
+            settings.value.token,
+            settings.value.branch
+        );
+        availableFiles.value = files;
+    } catch (e) {
+        console.warn("Could not auto-fetch file list", e);
+    }
+}
+
+async function handleMergeFromGitHub(filePath: string) {
+    if (!filePath) return;
+    isLoadingGitHub.value = true;
+    statusMessage.value = `Fusionant ${filePath}...`;
+    try {
+        const result = await getRepoContent(
+            settings.value.owner,
+            settings.value.repo,
+            filePath, // Use the selected path
+            settings.value.token,
+            settings.value.branch
+        );
+        const raw = JSON.parse(result.content);
+        const { assignatures: newAssig } = normalizeBlocsJSON(raw);
+        
+        const merged = mergeSubjects(assignatures.value, newAssig);
+        assignatures.value = merged;
+        statusMessage.value = `Fusionat correctament de GitHub! Total: ${merged.length}`;
+    } catch (e: any) {
+        alert("Error fusionant de GitHub: " + e.message);
+    } finally {
+        isLoadingGitHub.value = false;
+    }
+}
 
 const highlightIds = computed(() => {
   if (!comparisonResult.value) return new Set<string>();
@@ -178,10 +228,22 @@ async function handleMergeFile(event: Event) {
 
   try {
     const { assignatures: newAssig } = await processFile(file);
-    const combined = [...assignatures.value, ...newAssig];
-    
-    // Smart Merge Logic
+
+    // Reuse merge logic
+    const mergedList = mergeSubjects(assignatures.value, newAssig);
+    assignatures.value = mergedList;
+    statusMessage.value = `Fusionat: total ${assignatures.value.length} assignatures.`;
+  } catch (e) {
+      alert("Error en fusionar el fitxer JSON.");
+  } finally {
+      input.value = "";
+  }
+}
+
+function mergeSubjects(current: Assignatura[], incoming: Assignatura[]): Assignatura[] {
+    const combined = [...current, ...incoming];
     const uniqueMap = new Map<string, Assignatura>();
+    
     for (const a of combined) {
         if(!a.codi_upc_ud) continue;
         if (!uniqueMap.has(a.codi_upc_ud)) {
@@ -208,7 +270,8 @@ async function handleMergeFile(event: Event) {
             }
         }
     }
-    assignatures.value = Array.from(uniqueMap.values());
+    return Array.from(uniqueMap.values());
+}
     statusMessage.value = `Fusionat: total ${assignatures.value.length} assignatures.`;
   } catch (e) {
       alert("Error en fusionar el fitxer JSON.");
@@ -281,7 +344,15 @@ function handleExport() {
           </div>
           <div class="row">
               <label>Path:</label>
-              <input v-model="settings.path" placeholder="path/to/file.json" />
+              <!-- Combo box behavior: Select or Type -->
+              <div class="input-group">
+                <input v-model="settings.path" placeholder="path/to/file.json" list="file-list" />
+                <datalist id="file-list">
+                    <option v-for="f in availableFiles" :key="f.path" :value="f.path">{{ f.name }}</option>
+                </datalist>
+                <button class="btn-sm" @click="handleFetchFiles" title="Refrescar llista fitxers">🔄</button>
+              </div>
+
               <label>Branch:</label>
               <input v-model="settings.branch" placeholder="main" />
           </div>
@@ -296,6 +367,17 @@ function handleExport() {
           <button class="btn-github save" @click="handleSaveToGitHub" :disabled="isSavingGitHub">
               {{ isSavingGitHub ? 'Guardant...' : '💾 Save to GitHub' }}
           </button>
+      </div>
+      
+      <!-- Merge Tool -->
+      <div class="merge-row" v-if="availableFiles.length > 0">
+           <label>Fusionar un altre fitxer:</label>
+           <select @change="(e) => handleMergeFromGitHub((e.target as HTMLSelectElement).value)">
+               <option value="">-- Selecciona fitxer per afegir --</option>
+               <option v-for="f in availableFiles" :key="f.path" :value="f.path">
+                   ➕ {{ f.name }} (Merge)
+               </option>
+           </select>
       </div>
       
       <p v-if="statusMessage" class="status-msg">{{ statusMessage }}</p>
@@ -376,6 +458,33 @@ function handleExport() {
 </template>
 
 <style scoped>
+.input-group {
+    display: flex;
+    flex: 1;
+    gap: 0.5rem;
+}
+.btn-sm {
+    padding: 0 0.5rem;
+    cursor: pointer;
+    background: #f3f4f6;
+    border: 1px solid #d1d5db;
+    border-radius: 4px;
+}
+.merge-row {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px dashed #e2e8f0;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.merge-row select {
+    flex: 1;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
 .app {
   max-width: 90%;
   margin: 0 auto;

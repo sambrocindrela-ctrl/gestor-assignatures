@@ -90,3 +90,38 @@ export async function saveRepoContent(
         throw new Error(err.message || "Error saving file to GitHub");
     }
 }
+
+export async function getRepoFiles(
+    owner: string,
+    repo: string,
+    path: string,
+    token: string,
+    branch: string = "main"
+): Promise<{ name: string; path: string; type: string }[]> {
+    const url = `https://api.github.com/repos/${owner}/${repo}/contents/${path}?ref=${branch}`;
+
+    const response = await fetch(url, {
+        headers: {
+            Authorization: `Bearer ${token}`,
+            Accept: "application/vnd.github.v3+json",
+        },
+    });
+
+    if (!response.ok) {
+        throw new Error("Error fetching directory listing");
+    }
+
+    const data = await response.json();
+    if (!Array.isArray(data)) {
+        throw new Error("Path is not a directory");
+    }
+
+    // Return only JSON files
+    return data
+        .filter((item: any) => item.type === "file" && item.name.endsWith(".json"))
+        .map((item: any) => ({
+            name: item.name,
+            path: item.path,
+            type: item.type,
+        }));
+}
