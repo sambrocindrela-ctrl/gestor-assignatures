@@ -1,4 +1,4 @@
-import { ref, watch, type Ref } from "vue";
+import { ref, watch } from "vue";
 
 const STORAGE_KEY = "gestor-assignatures-github-settings";
 
@@ -19,13 +19,7 @@ const settings = ref<GitHubSettings>({
     branch: "main"
 });
 
-export interface UseGitHubReturn {
-    settings: Ref<GitHubSettings>;
-    loadSettings: () => void;
-    saveSettings: () => void;
-}
-
-export function useGitHub(): UseGitHubReturn {
+export function useGitHub() {
 
     function loadSettings() {
         const raw = localStorage.getItem(STORAGE_KEY);
