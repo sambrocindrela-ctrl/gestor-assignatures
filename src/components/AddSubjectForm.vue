@@ -2,7 +2,7 @@
 <script setup lang="ts">
 import { ref } from "vue";
 import type { Assignatura } from "../types/assignatures";
-import { getProgramName, PROGRAM_NAMES } from "../utils/programNames";
+import { PROGRAM_NAMES } from "../utils/programNames";
 
 const emit = defineEmits<{
   (e: "add", subject: Assignatura): void;

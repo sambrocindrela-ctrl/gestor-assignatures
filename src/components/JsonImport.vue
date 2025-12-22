@@ -14,7 +14,7 @@ const assignatures = ref<Assignatura[]>([]);
 const blocsCount = ref(0);
 
 // GitHub State
-const { settings, loadSettings, saveSettings } = useGitHub();
+const { settings, loadSettings } = useGitHub();
 const showSettings = ref(false);
 const isLoadingGitHub = ref(false);
 const isSavingGitHub = ref(false);
