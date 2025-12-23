@@ -288,13 +288,7 @@ function mergeSubjects(current: Assignatura[], incoming: Assignatura[]): Assigna
     }
     return Array.from(uniqueMap.values());
 }
-    statusMessage.value = `Fusionat: total ${assignatures.value.length} assignatures.`;
-  } catch (e) {
-      alert("Error en fusionar el fitxer JSON.");
-  } finally {
-      input.value = "";
-  }
-}
+
 
 // --- Manual Entry ---
 function handleAddSubject(newSub: Assignatura) {
