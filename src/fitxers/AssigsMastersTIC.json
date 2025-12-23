@@ -1,0 +1,3445 @@
+[
+  {
+    "codi_upc_ud": "230600",
+    "sigles_ud": "DC",
+    "nom": "COMUNICACIONS DIGITALS",
+    "nom_cast": "COMUNICACIONES DIGITALES",
+    "nom_eng": "DIGITAL COMMUNICATIONS",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 220,
+    "bloc_nom": "BRIDGE, Wireless Communications (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "BRIDGE"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Wireless Communications (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230601",
+    "sigles_ud": "SIGPRO",
+    "nom": "PROCESSAMENT DEL SENYAL",
+    "nom_cast": "PROCESADO DE LA SEÑAL",
+    "nom_eng": "SIGNAL PROCESSING",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 220,
+    "bloc_nom": "BRIDGE",
+    "programa": "948",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "BRIDGE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230602",
+    "sigles_ud": "AAM",
+    "nom": "ANTENES I MICROONES",
+    "nom_cast": "ANTENAS Y MICROONDAS",
+    "nom_eng": "ANTENNAS AND MICROWAVES",
+    "dept": "TSC;ICE",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 220,
+    "bloc_nom": "BRIDGE, Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "BRIDGE"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230603",
+    "sigles_ud": "TSF",
+    "nom": "FONAMENTS DE SISTEMES DE TELECOMUNICACIÓ",
+    "nom_cast": "FUNDAMENTOS DE SISTEMAS DE TELECOMUNICACIÓN",
+    "nom_eng": "FUNDAMENTALS OF TELECOMMUNICATION SYSTEMS",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 220,
+    "bloc_nom": "BRIDGE, Optical Networks (ETSETB), Wireless Communications (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "BRIDGE"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Optical Networks (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Wireless Communications (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230605",
+    "sigles_ud": "DTP",
+    "nom": "PROTOCOLS DE TRANSMISSIÓ DE DADES",
+    "nom_cast": "PROTOCOLOS DE TRANSMISIÓN DE DATOS",
+    "nom_eng": "DATA TRANSMISSION PROTOCOLS",
+    "dept": "ENTEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 220,
+    "bloc_nom": "BRIDGE",
+    "programa": "948",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "BRIDGE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230729",
+    "sigles_ud": "CDEL",
+    "nom": "ELECTRÒNICA DIGITAL CONFIGURABLE",
+    "nom_cast": "ELECTRÓNICA DIGITAL CONFIGURABLE",
+    "nom_eng": "CONFIGURABLE DIGITAL ELECTRONICS",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 220,
+    "bloc_nom": "BRIDGE, Integrated Systems (ETSETB)",
+    "programa": "948, 1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "BRIDGE"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Integrated Systems (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "BRIDGE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230647",
+    "sigles_ud": "ACWS",
+    "nom": "COMUNICACIONS AVANÇADES PER A SISTEMES SENSE FIL",
+    "nom_cast": "COMUNICACIONES AVANZADAS PARA SISTEMAS INALÁMBRICOS",
+    "nom_eng": "ADVANCED COMMUNICATIONS FOR WIRELESS SYSTEMS",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 221,
+    "bloc_nom": "CORE, Wireless Communications (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "CORE"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Wireless Communications (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230648",
+    "sigles_ud": "WLA",
+    "nom": "ENLLAÇOS DE COMUNICACIONS SENSE FIL I ANTENES",
+    "nom_cast": "ENLACES DE COMUNICACIONES INALÁMBRICAS Y ANTENAS",
+    "nom_eng": "WIRELESS COMMUNICATION LINKS AND ANTENNAS",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 221,
+    "bloc_nom": "CORE, Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "CORE"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230649",
+    "sigles_ud": "TSYS",
+    "nom": "SISTEMES DE TELECOMUNICACIÓ",
+    "nom_cast": "SISTEMAS DE TELECOMUNICACIÓN",
+    "nom_eng": "TELECOMMUNICATIONS SYSTEMS",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 221,
+    "bloc_nom": "CORE",
+    "programa": "948",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "CORE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230650",
+    "sigles_ud": "CN",
+    "nom": "XARXES DE COMUNICACIÓ",
+    "nom_cast": "REDES DE COMUNICACIÓN",
+    "nom_eng": "COMMUNICATION NETWORKS",
+    "dept": "ENTEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 221,
+    "bloc_nom": "CORE, Network Engineering (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "CORE"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Network Engineering (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230651",
+    "sigles_ud": "OVNET",
+    "nom": "XARXES SUPERPOSADES",
+    "nom_cast": "REDES SUPERPUESTAS",
+    "nom_eng": "OVERLAY NETWORKS",
+    "dept": "ENTEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 221,
+    "bloc_nom": "CORE, Network Engineering (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "CORE"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Network Engineering (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230652",
+    "sigles_ud": "ESDC",
+    "nom": "DISSENY DE SISTEMES ELECTRÒNICS PER A COMUNICACIONS",
+    "nom_cast": "DISEÑO DE SISTEMAS ELECTRÓNICOS PARA COMUNICACIONES",
+    "nom_eng": "ELECTRONIC SYSTEM DESIGN FOR COMMUNICATIONS",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 221,
+    "bloc_nom": "CORE",
+    "programa": "948",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "CORE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230653",
+    "sigles_ud": "EIO",
+    "nom": "INSTRUMENTACIÓ ELECTRÒNICA I OPTOELECTRÒNICA",
+    "nom_cast": "INSTRUMENTACIÓN ELECTRÓNICA Y OPTOELECTRÓNICA",
+    "nom_eng": "ELECTRONIC INSTRUMENTATION AND OPTOELECTRONICS",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 221,
+    "bloc_nom": "CORE",
+    "programa": "948",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "CORE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230654",
+    "sigles_ud": "IBSM",
+    "nom": "GESTIÓ INNOVADORA DE SERVEIS",
+    "nom_cast": "GESTIÓN INNOVADORA DE SERVICIOS",
+    "nom_eng": "INNOVATION-BASED SERVICE MANAGEMENT",
+    "dept": "OE",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 221,
+    "bloc_nom": "CORE",
+    "programa": "948",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "CORE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230655",
+    "sigles_ud": "MTP",
+    "nom": "GESTIÓ DE PROJECTES DE TELECOMUNICACIÓ",
+    "nom_cast": "GESTIÓN DE PROYECTOS DE TELECOMUNICACIÓN",
+    "nom_eng": "MANAGEMENT OF TELECOMMUNICATIONS PROJECTS",
+    "dept": "DAC;EEL;ENTEL;TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 221,
+    "bloc_nom": "CORE, ELECTIVE",
+    "programa": "948, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "CORE"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "ELECTIVE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230609",
+    "sigles_ud": "RSEN",
+    "nom": "SISTEMES DE TELEDETECCIÓ PER A L'OBSERVACIÓ DE LA TERRA",
+    "nom_cast": "SISTEMAS DE TELEDETECCIÓN PARA LA OBSERVACIÓN DE LA TIERRA",
+    "nom_eng": "REMOTE SENSING FOR EARTH OBSERVATION",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Intensif. in Communications, Spec. Antennas, Microwaves and Photonics for Communications and Earth Observation, Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Antennas, Microwaves and Photonics for Communications and Earth Observation"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230610",
+    "sigles_ud": "RADN",
+    "nom": "RADAR I SISTEMES DE RADIONAVEGACIÓ I LOCALITZACIÓ",
+    "nom_cast": "RADAR Y SISTEMAS DE RADIONAVEGACIÓN Y LOCALIZACIÓN",
+    "nom_eng": "RADAR AND RADIONAVIGATION AND LOCATION SYSTEMS",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Intensif. in Communications, Spec. Antennas, Microwaves and Photonics for Communications and Earth Observation, Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Antennas, Microwaves and Photonics for Communications and Earth Observation"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230611",
+    "sigles_ud": "IT",
+    "nom": "TEORIA DE LA INFORMACIÓ",
+    "nom_cast": "TEORÍA DE LA INFORMACIÓN",
+    "nom_eng": "INFORMATION THEORY",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Intensif. in Communications, Spec. Wireless Communications, Wireless Communications (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Wireless Communications"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Wireless Communications (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230618",
+    "sigles_ud": "WAN",
+    "nom": "XARXES D'ACCÉS SENSE FIL",
+    "nom_cast": "REDES DE ACCESO INALÁMBRICAS",
+    "nom_eng": "WIRELESS ACCESS NETWORKS",
+    "dept": "ENTEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Elective Networks, Intensif. in Networks, Spec. Networks & Internet Tech, Network Engineering (ETSETB), Wireless Communications (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Networks"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Networks"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Networks & Internet Tech"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Network Engineering (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Wireless Communications (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230626",
+    "sigles_ud": "NMEE",
+    "nom": "MÈTODES NUMÈRICS PER A L'ENGINYERIA ELECTROMAGNÈTICA",
+    "nom_cast": "MÉTODOS NUMÉRICOS PARA LA INGENIERÍA ELECTROMAGNÉTICA",
+    "nom_eng": "NUMERICAL METHODS FOR ELECTROMAGNETIC ENGINEERING",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Spec. Antennas, Microwaves and Photonics for Communications and Earth Observation, Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Antennas, Microwaves and Photonics for Communications and Earth Observation"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230631",
+    "sigles_ud": "OFT",
+    "nom": "TELECOMUNICACIONS PER FIBRA ÒPTICA",
+    "nom_cast": "TELECOMUNICACIONES POR FIBRA ÓPTICA",
+    "nom_eng": "OPTICAL FIBRE TELECOMMUNICATIONS",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Intensif. in Communications, Spec. Fiber-Optic Communications, Optical Networks (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Fiber-Optic Communications"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Optical Networks (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230632",
+    "sigles_ud": "ARRAYS",
+    "nom": "PROCESSAMENT D'AGRUPACIONS D'ANTENES I ANTENES INTEL·LIGENTS",
+    "nom_cast": "PROCESADO DE AGRUPACIONES DE ANTENAS Y ANTENAS INTELIGENTES",
+    "nom_eng": "ARRAY PROCESSING AND SMART ANTENNAS",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Spec. Wireless Communications, Wireless Communications (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Wireless Communications"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Wireless Communications (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230635",
+    "sigles_ud": "MRS",
+    "nom": "FORMACIÓ D'IMATGES PER MICROONES EN TELEDETECCIÓ",
+    "nom_cast": "FORMACIÓN DE IMÁGENES POR MICROONDAS EN TELEDETECCIÓN",
+    "nom_eng": "MICROWAVE IMAGING FOR REMOTE SENSING",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Spec. Antennas, Microwaves and Photonics for Communications and Earth Observation, Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Antennas, Microwaves and Photonics for Communications and Earth Observation"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230685",
+    "sigles_ud": "ASPTA",
+    "nom": "PROCESSAMENT AVANÇAT DEL SENYAL: EINES I APLICACIONS",
+    "nom_cast": "PROCESADO AVANZADO DE LA SEÑAL: HERRAMIENTAS Y APLICACIONES",
+    "nom_eng": "ADVANCED SIGNAL PROCESSING: TOOLS AND APPLICATIONS",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Elective Multimedia, Intensif. in Communications, Spec. Wireless Communications",
+    "programa": "948",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Wireless Communications"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230689",
+    "sigles_ud": "WLAB",
+    "nom": "LABORATORI DE COMUNICACIONS SENSE FIL",
+    "nom_cast": "LABORATORIO DE COMUNICACIONES INALÁMBRICAS",
+    "nom_eng": "WIRELESS LABORATORY",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Intensif. in Communications, Spec. Wireless Communications, Wireless Communications (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Wireless Communications"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Wireless Communications (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230695",
+    "sigles_ud": "ACO",
+    "nom": "OPTIMITZACIÓ CONVEXA APLICADA",
+    "nom_cast": "OPTIMIZACIÓN CONVEXA APLICADA",
+    "nom_eng": "APPLIED CONVEX OPTIMISATION",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Spec. Wireless Communications",
+    "programa": "948",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Wireless Communications"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230697",
+    "sigles_ud": "OFLAB",
+    "nom": "LABORATORI DE TELECOMUNICACIONS PER FIBRA ÒPTICA",
+    "nom_cast": "LABORATORIO DE TELECOMUNICACIONES POR FIBRA ÓPTICA",
+    "nom_eng": "FIBRE OPTIC TELECOMMUNICATIONS LABORATORY",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Intensif. in Communications, Spec. Fiber-Optic Communications, Optical Networks (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Fiber-Optic Communications"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Optical Networks (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230698",
+    "sigles_ud": "OPNET",
+    "nom": "XARXES ÒPTIQUES",
+    "nom_cast": "REDES ÓPTICAS",
+    "nom_eng": "OPTICAL NETWORKS",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Spec. Fiber-Optic Communications, Optical Networks (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Fiber-Optic Communications"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Optical Networks (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230699",
+    "sigles_ud": "SHORT",
+    "nom": "COMUNICACIONS DE CURT ABAST",
+    "nom_cast": "COMUNICACIONES DE CORTO ALCANCE",
+    "nom_eng": "SHORT RANGE COMMUNICATIONS",
+    "dept": "ENTEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Elective Networks, Intensif. in Networks, Spec. Networks & Internet Tech, Spec. Wireless Communications, Wireless Communications (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Networks"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Networks"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Networks & Internet Tech"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Wireless Communications"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Wireless Communications (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230704",
+    "sigles_ud": "ORS",
+    "nom": "TELEDETECCIÓ ÒPTICA: LIDAR (RADAR LÀSER)",
+    "nom_cast": "TELEDETECCIÓN ÓPTICA: LIDAR (RADAR LÁSER)",
+    "nom_eng": "OPTICAL REMOTE SENSING: LIDAR (LASER RADAR)",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Spec. Antennas, Microwaves and Photonics for Communications and Earth Observation, Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Antennas, Microwaves and Photonics for Communications and Earth Observation"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230709",
+    "sigles_ud": "5GMCS",
+    "nom": "SISTEMES DE COMUNICACIONS MÒBILS 5G",
+    "nom_cast": "SISTEMAS DE COMUNICACIONES MÓVILES 5G",
+    "nom_eng": "5G MOBILE COMMUNICATIONS SYSTEMS",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Intensif. in Communications, Spec. Fiber-Optic Communications, Spec. Wireless Communications, Wireless Communications (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Fiber-Optic Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Wireless Communications"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Wireless Communications (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230742",
+    "sigles_ud": "QOC",
+    "nom": "COMUNICACIONS ÒPTIQUES QUÀNTIQUES",
+    "nom_cast": "COMUNICACIONES ÓPTICAS CUÁNTICAS",
+    "nom_eng": "QUANTUM OPTICAL COMMUNICATIONS",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Spec. Fiber-Optic Communications, Optical Networks (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Fiber-Optic Communications"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Optical Networks (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230743",
+    "sigles_ud": "AI4EO",
+    "nom": "IA I BIG DATA PER A L'OBSERVACIÓ DE LA TERRA",
+    "nom_cast": "IA Y BIG DATA PARA LA OBSERVACIÓN DE LA TIERRA",
+    "nom_eng": "AI AND BIG DATA FOR EARTH OBSERVATION",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Spec. Antennas, Microwaves and Photonics for Communications and Earth Observation, Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Antennas, Microwaves and Photonics for Communications and Earth Observation"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230744",
+    "sigles_ud": "AMLAB",
+    "nom": "LABORATORI D'ANTENES I MICROONES PER A SISTEMES DE COMUNICACIÓ",
+    "nom_cast": "LABORATORIO DE ANTENAS Y MICROONDAS PARA SISTEMAS DE COMUNICACIÓN",
+    "nom_eng": "ANTENNAS AND MICROWAVES FOR COMMUNICATION SYSTEMS LABORATORY",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Spec. Antennas, Microwaves and Photonics for Communications and Earth Observation, Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Antennas, Microwaves and Photonics for Communications and Earth Observation"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230745",
+    "sigles_ud": "MPTH",
+    "nom": "RECERCA I APLICACIONS DE LA FOTÒNICA DE MICROONES I ELS TERAHERTZS",
+    "nom_cast": "INVESTIGACIÓN Y APLICACIONES DE LA FOTÓNICA DE MICROONDAS Y LOS TERAHERCIOS",
+    "nom_eng": "MICROWAVE PHOTONICS AND TERAHERTZ RESEARCH AND APPLICATIONS",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 288,
+    "bloc_nom": "Elective Communications, Intensif. in Communications, Spec. Antennas, Microwaves and Photonics for Communications and Earth Observation, Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Antennas, Microwaves and Photonics for Communications and Earth Observation"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230728",
+    "sigles_ud": "CAPE",
+    "nom": "CONTROL I APLICACIONS EN ELECTRÒNICA DE POTÈNCIA",
+    "nom_cast": "CONTROL Y APLICACIONES EN ELECTRÓNICA DE POTENCIA",
+    "nom_eng": "CONTROL AND APPLICATIONS IN POWER ELECTRONICS",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 290,
+    "bloc_nom": "Elective Electronics, Intensif. in Electronics, Micro and Nanotechnologies for Energy Management (ETSETB), CORE",
+    "programa": "948, 1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Electronics"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Electronics"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Micro and Nanotechnologies for Energy Management (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "CORE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230730",
+    "sigles_ud": "DAMC",
+    "nom": "DISSENY DE CIRCUITS MICROELECTRÒNICS ANALÒGICS",
+    "nom_cast": "DISEÑO DE CIRCUITOS MICROELECTRÓNICOS ANALÓGICOS",
+    "nom_eng": "DESIGN OF ANALOGUE MICROELECTRONIC CIRCUITS",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 290,
+    "bloc_nom": "Elective Electronics, Intensif. in Electronics, Spec. Electronics, Integrated Systems (ETSETB), CORE",
+    "programa": "948, 1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Electronics"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Electronics"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Electronics"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Integrated Systems (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "CORE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230731",
+    "sigles_ud": "DND",
+    "nom": "DISSENY NANOELECTRÒNIC DIGITAL",
+    "nom_cast": "DISEÑO NANOELECTRÓNICO DIGITAL",
+    "nom_eng": "DIGITAL NANOELECTRONIC DESIGN",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 290,
+    "bloc_nom": "Elective Electronics, Intensif. in Electronics, Spec. Electronics, Integrated Systems (ETSETB), CORE",
+    "programa": "948, 1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Electronics"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Electronics"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Electronics"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Integrated Systems (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "CORE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230733",
+    "sigles_ud": "EMST",
+    "nom": "CIÈNCIA I TECNOLOGIA DE MESURA ELECTRÒNICA",
+    "nom_cast": "CIENCIA Y TECNOLOGÍA DE MEDIDA ELECTRÓNICA",
+    "nom_eng": "ELECTRONIC MEASUREMENT SCIENCE AND TECHNOLOGY",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 290,
+    "bloc_nom": "Elective Electronics, Intensif. in Electronics, Spec. Electronics, Instrumentation and Sensors (ETSETB), CORE",
+    "programa": "948, 1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Electronics"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Electronics"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Electronics"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Instrumentation and Sensors (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "CORE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230734",
+    "sigles_ud": "FSD",
+    "nom": "FONAMENTS DE DISPOSITIUS SEMICONDUCTORS",
+    "nom_cast": "FUNDAMENTOS DE DISPOSITIVOS SEMICONDUCTORES",
+    "nom_eng": "FUNDAMENTALS OF SEMICONDUCTOR DEVICES",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 290,
+    "bloc_nom": "Elective Electronics, Intensif. in Electronics, Spec. Electronics, Integrated Systems (ETSETB), BRIDGE",
+    "programa": "948, 1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Electronics"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Electronics"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Electronics"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Integrated Systems (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "BRIDGE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230735",
+    "sigles_ud": "HDD",
+    "nom": "DISSENY DIGITAL D'ALT NIVELL",
+    "nom_cast": "DISEÑO DIGITAL DE ALTO NIVEL",
+    "nom_eng": "HIGH-LEVEL DIGITAL DESIGN",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 290,
+    "bloc_nom": "Elective Electronics, Intensif. in Electronics, Spec. Electronics, Integrated Systems (ETSETB), CORE",
+    "programa": "948, 1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Electronics"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Electronics"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Electronics"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Integrated Systems (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "CORE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230736",
+    "sigles_ud": "IMD",
+    "nom": "INTRODUCCIÓ AL DISSENY MICROELECTRÒNIC",
+    "nom_cast": "INTRODUCCIÓN AL DISEÑO MICROELECTRÓNICO",
+    "nom_eng": "INTRODUCTION TO MICROELECTRONIC DESIGN",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 290,
+    "bloc_nom": "Elective Electronics, Intensif. in Electronics, Spec. Electronics, Integrated Systems (ETSETB), BRIDGE",
+    "programa": "948, 1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Electronics"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Electronics"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Electronics"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Integrated Systems (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "BRIDGE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230737",
+    "sigles_ud": "IMS",
+    "nom": "INTRODUCCIÓ ALS SISTEMES DE MESURA",
+    "nom_cast": "INTRODUCCIÓN A LOS SISTEMAS DE MEDIDA",
+    "nom_eng": "INTRODUCTION TO MEASUREMENT SYSTEMS",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 290,
+    "bloc_nom": "Elective Electronics, Intensif. in Electronics, Spec. Electronics, Instrumentation and Sensors (ETSETB), BRIDGE",
+    "programa": "948, 1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Electronics"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Electronics"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Electronics"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Instrumentation and Sensors (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "BRIDGE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230738",
+    "sigles_ud": "NED",
+    "nom": "NANOTECNOLOGIES I DISPOSITIUS ELECTRÒNICS",
+    "nom_cast": "NANOTECNOLOGÍAS Y DISPOSITIVOS ELECTRÓNICOS",
+    "nom_eng": "NANOTECHNOLOGIES AND ELECTRONIC DEVICES",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 290,
+    "bloc_nom": "Elective Electronics, Spec. Electronics, Micro and Nanotechnologies for Energy Management (ETSETB), CORE",
+    "programa": "948, 1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Electronics"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Electronics"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Micro and Nanotechnologies for Energy Management (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "CORE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230739",
+    "sigles_ud": "PCPE",
+    "nom": "PRINCIPIS DE CONTROL I ELECTRÒNICA DE POTÈNCIA",
+    "nom_cast": "PRINCIPIOS DE CONTROL Y ELECTRÓNICA DE POTENCIA",
+    "nom_eng": "PRINCIPLES OF CONTROL AND POWER ELECTRONICS",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 290,
+    "bloc_nom": "Elective Electronics, Intensif. in Electronics, BRIDGE",
+    "programa": "948, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Electronics"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Electronics"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "BRIDGE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230620",
+    "sigles_ud": "DIVP",
+    "nom": "PROCESSAMENT DIGITAL D'IMATGES I VÍDEO",
+    "nom_cast": "PROCESAMIENTO DIGITAL DE IMÁGENES Y VÍDEO",
+    "nom_eng": "DIGITAL IMAGE AND VIDEO PROCESSING",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 291,
+    "bloc_nom": "Elective Multimedia, Intensif. in Multimedia, Spec. Multimedia, Deep Learning for Multimedia Processing (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Multimedia"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Deep Learning for Multimedia Processing (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230622",
+    "sigles_ud": "DSAP",
+    "nom": "PROCESSAMENT DIGITAL D'ÀUDIO I VEU",
+    "nom_cast": "PROCESADO DIGITAL DE AUDIO Y VOZ",
+    "nom_eng": "DIGITAL AUDIO AND SPEECH PROCESSING",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 291,
+    "bloc_nom": "Elective Multimedia, Intensif. in Multimedia, Spec. Multimedia, Deep Learning for Multimedia Processing (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Multimedia"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Deep Learning for Multimedia Processing (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230623",
+    "sigles_ud": "SLPDL",
+    "nom": "PROCESSAMENT DE LA VEU I EL LLENGUATGE AMB APRENENTATGE PROFUND",
+    "nom_cast": "PROCESADO DE LA VOZ Y EL LENGUAJE CON APRENDIZAJE PROFUNDO",
+    "nom_eng": "SPEECH AND LANGUAGE PROCESSING WITH DEEP LEARNING",
+    "dept": "TSC;CS",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 291,
+    "bloc_nom": "Elective Multimedia, Intensif. in Multimedia, Spec. Multimedia, Deep Learning for Multimedia Processing (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Multimedia"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Deep Learning for Multimedia Processing (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230624",
+    "sigles_ud": "BIOM",
+    "nom": "BIOMETRIA",
+    "nom_cast": "BIOMETRÍA",
+    "nom_eng": "BIOMETRICS",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 291,
+    "bloc_nom": "Elective Multimedia, Intensif. in Multimedia, Spec. Multimedia, Deep Learning for Multimedia Processing (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Multimedia"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Deep Learning for Multimedia Processing (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230625",
+    "sigles_ud": "MLEARN",
+    "nom": "APRENENTATGE AUTOMÀTIC A PARTIR DE DADES",
+    "nom_cast": "APRENDIZAJE AUTOMÁTICO A PARTIR DE DATOS",
+    "nom_eng": "MACHINE LEARNING FROM DATA",
+    "dept": "TSC;ENTEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 291,
+    "bloc_nom": "Elective Multimedia, Elective Transversals, Intensif. in Multimedia, Spec. Fiber-Optic Communications, Spec. Multimedia, Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB), Cybersecurity (ETSETB), Deep Learning for Multimedia Processing (ETSETB), Instrumentation and Sensors (ETSETB), Integrated Systems (ETSETB), Micro and Nanotechnologies for Energy Management (ETSETB), Network Engineering (ETSETB), Optical Networks (ETSETB), Wireless Communications (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Transversals"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Fiber-Optic Communications"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Multimedia"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Cybersecurity (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Deep Learning for Multimedia Processing (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Instrumentation and Sensors (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Integrated Systems (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Micro and Nanotechnologies for Energy Management (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Network Engineering (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Optical Networks (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Wireless Communications (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230706",
+    "sigles_ud": "DLAI",
+    "nom": "APRENENTATGE PROFUND PER A LA INTEL·LIGÈNCIA ARTIFICIAL",
+    "nom_cast": "APRENDIZAJE PROFUNDO PARA LA INTELIGENCIA ARTIFICIAL",
+    "nom_eng": "DEEP LEARNING FOR ARTIFICIAL INTELLIGENCE",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 291,
+    "bloc_nom": "Elective Multimedia, Intensif. in Multimedia, Spec. Multimedia, Deep Learning for Multimedia Processing (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Multimedia"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Deep Learning for Multimedia Processing (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230717",
+    "sigles_ud": "AHLT",
+    "nom": "TECNOLOGIES AVANÇADES DEL LLENGUATGE HUMÀ",
+    "nom_cast": "TECNOLOGÍAS AVANZADAS DEL LENGUAJE HUMANO",
+    "nom_eng": "ADVANCED HUMAN LANGUAGE TECHNOLOGIES",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 291,
+    "bloc_nom": "Elective Multimedia, Intensif. in Multimedia, Deep Learning for Multimedia Processing (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Multimedia"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Deep Learning for Multimedia Processing (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230726",
+    "sigles_ud": "CVDL",
+    "nom": "VISIÓ PER ORDINADOR AMB APRENENTATGE PROFUND",
+    "nom_cast": "VISIÓN POR COMPUTADOR CON APRENDIZAJE PROFUNDO",
+    "nom_eng": "COMPUTER VISION WITH DEEP LEARNING",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 291,
+    "bloc_nom": "Elective Multimedia, Intensif. in Multimedia, Spec. Multimedia, Deep Learning for Multimedia Processing (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Multimedia"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Deep Learning for Multimedia Processing (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230746",
+    "sigles_ud": "BMI",
+    "nom": "IMATGE BIOMÈDICA",
+    "nom_cast": "IMAGEN BIOMÉDICA",
+    "nom_eng": "BIOMEDICAL IMAGING",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 291,
+    "bloc_nom": "Elective Multimedia, Intensif. in Multimedia, Spec. Multimedia, Deep Learning for Multimedia Processing (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Multimedia"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Multimedia"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Deep Learning for Multimedia Processing (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230616",
+    "sigles_ud": "QSN",
+    "nom": "QUALITAT DE SERVEI EN XARXES",
+    "nom_cast": "CALIDAD DE SERVICIO EN REDES",
+    "nom_eng": "QUALITY OF SERVICE IN NETWORKS",
+    "dept": "ENTEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 289,
+    "bloc_nom": "Elective Networks, Intensif. in Networks, Spec. Networks & Internet Tech, Network Engineering (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Networks"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Networks"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Networks & Internet Tech"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Network Engineering (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230617",
+    "sigles_ud": "NS",
+    "nom": "SEGURETAT DE XARXA",
+    "nom_cast": "SEGURIDAD DE RED",
+    "nom_eng": "NETWORK SECURITY",
+    "dept": "ENTEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 289,
+    "bloc_nom": "Elective Networks, Intensif. in Networks, Spec. Networks & Internet Tech, Cybersecurity (ETSETB), Network Engineering (ETSETB), MCYBERS Fall",
+    "programa": "948, 1356, 1383",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Networks"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Networks"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Networks & Internet Tech"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Cybersecurity (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Network Engineering (ETSETB)"
+      },
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Fall"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230619",
+    "sigles_ud": "NET",
+    "nom": "CIÈNCIA DE XARXES",
+    "nom_cast": "CIENCIA DE REDES",
+    "nom_eng": "NETWORK SCIENCE",
+    "dept": "ENTEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 289,
+    "bloc_nom": "Elective Networks, Intensif. in Networks, Spec. Networks & Internet Tech, Network Engineering (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Networks"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Networks"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Networks & Internet Tech"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Network Engineering (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230687",
+    "sigles_ud": "INE",
+    "nom": "INTERNET I ECONOMIA EN XARXA",
+    "nom_cast": "INTERNET Y ECONOMÍA EN RED",
+    "nom_eng": "INTERNET AND NETWORK ECONOMY",
+    "dept": "ENTEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 289,
+    "bloc_nom": "Elective Networks, Spec. Networks & Internet Tech, Network Engineering (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Networks"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Networks & Internet Tech"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Network Engineering (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230711",
+    "sigles_ud": "UCASES",
+    "nom": "CASOS D'ÚS EN CIBERSEGURETAT",
+    "nom_cast": "CASOS DE USO EN CIBERSEGURIDAD",
+    "nom_eng": "CYBERSECURITY USE CASES",
+    "dept": "ENTEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 289,
+    "bloc_nom": "Elective Networks, Intensif. in Networks, Cybersecurity (ETSETB), MCYBERS Spring",
+    "programa": "948, 1356, 1383",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Networks"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Networks"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Cybersecurity (ETSETB)"
+      },
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Spring"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230713",
+    "sigles_ud": "DPROT",
+    "nom": "PROTECCIÓ DE LES DADES",
+    "nom_cast": "PROTECCIÓN DE LOS DATOS",
+    "nom_eng": "DATA PROTECTION",
+    "dept": "MAT",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 289,
+    "bloc_nom": "Elective Networks, Cybersecurity (ETSETB), MCYBERS Fall",
+    "programa": "948, 1356, 1383",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Networks"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Cybersecurity (ETSETB)"
+      },
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Fall"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230715",
+    "sigles_ud": "CSMAGT",
+    "nom": "GESTIÓ DE LA SEGURETAT",
+    "nom_cast": "GESTIÓN DE LA SEGURIDAD",
+    "nom_eng": "CYBERSECURITY MANAGEMENT",
+    "dept": "ENTEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 289,
+    "bloc_nom": "Elective Networks, Cybersecurity (ETSETB), MCYBERS Fall",
+    "programa": "948, 1356, 1383",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Networks"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Cybersecurity (ETSETB)"
+      },
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Fall"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230718",
+    "sigles_ud": "WMAD",
+    "nom": "DESENVOLUPAMENT D'APPS PER A WEB I MÒBILS",
+    "nom_cast": "DESARROLLO DE APPS PARA WEB Y MÓVILES",
+    "nom_eng": "WEB AND MOBILE APP DEVELOPMENT",
+    "dept": "ENTEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 289,
+    "bloc_nom": "Elective Networks, Intensif. in Networks, Spec. Networks & Internet Tech, Cybersecurity (ETSETB), Network Engineering (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Networks"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Networks"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Networks & Internet Tech"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Cybersecurity (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Network Engineering (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230720",
+    "sigles_ud": "INMAN",
+    "nom": "TÈCNIQUES D'OPTIMITZACIÓ I D'INTEL·LIGÈNCIA ARTIFICIAL EN LA GESTIÓ DE XARXES",
+    "nom_cast": "TÉCNICAS DE OPTIMIZACIÓN E INTELIGENCIA ARTIFICIAL EN LA GESTIÓN DE REDES",
+    "nom_eng": "OPTIMISATION AND ARTIFICIAL INTELLIGENCE TECHNIQUES IN NETWORK MANAGEMENT",
+    "dept": "ENTEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 289,
+    "bloc_nom": "Elective Networks, Intensif. in Networks, Spec. Networks & Internet Tech, Cybersecurity (ETSETB), Network Engineering (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Networks"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Networks"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Networks & Internet Tech"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Cybersecurity (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Network Engineering (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230988",
+    "sigles_ud": "QCRYP",
+    "nom": "CRIPTOGRAFIA QUÀNTICA",
+    "nom_cast": "CRIPTOGRAFÍA CUÁNTICA",
+    "nom_eng": "QUANTUM CRYPTOGRAPHY",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 289,
+    "bloc_nom": "Elective Networks, MCYBERS Spring",
+    "programa": "948, 1383",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Networks"
+      },
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Spring"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230990",
+    "sigles_ud": "DP",
+    "nom": "PRIVADESA DE DADES",
+    "nom_cast": "PRIVACIDAD DE DATOS",
+    "nom_eng": "DATA PRIVACY",
+    "dept": "ENTEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 289,
+    "bloc_nom": "Elective Networks, Intensif. in Networks, MCYBERS Spring",
+    "programa": "948, 1383",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Networks"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Intensif. in Networks"
+      },
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Spring"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230991",
+    "sigles_ud": "BKCHAIN",
+    "nom": "BLOCKCHAIN",
+    "nom_cast": "BLOCKCHAIN",
+    "nom_eng": "BLOCKCHAIN",
+    "dept": "ENTEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 289,
+    "bloc_nom": "Elective Networks, MCYBERS Fall",
+    "programa": "948, 1383",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Networks"
+      },
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Fall"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230637",
+    "sigles_ud": "CTC",
+    "nom": "CREATIVITAT I PENSAMENT CRÍTIC",
+    "nom_cast": "CREATIVIDAD Y PENSAMIENTO CRÍTICO",
+    "nom_eng": "CRITICAL THINKING AND CREATIVITY",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 230,
+    "bloc_nom": "Elective Transversals, TRANSVERSALS",
+    "programa": "948, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Transversals"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "TRANSVERSALS"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230639",
+    "sigles_ud": "TAM",
+    "nom": "GESTIÓ DE RECURSOS TECNOLÒGICS",
+    "nom_cast": "GESTIÓN DE RECURSOS TECNOLÓGICOS",
+    "nom_eng": "TECHNOLOGY ASSET MANAGEMENT",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 230,
+    "bloc_nom": "Elective Transversals, ELECTIVE",
+    "programa": "948, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Transversals"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "ELECTIVE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230696",
+    "sigles_ud": "MLAB",
+    "nom": "MATLAB: FONAMENTS I/O APLICACIONS",
+    "nom_cast": "MATLAB: FUNDAMENTOS Y/O APLICACIONES",
+    "nom_eng": "MATLAB: FUNDAMENTALS AND/OR APPLICATIONS",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 230,
+    "bloc_nom": "Elective Transversals, Spec. Fiber-Optic Communications, TRANSVERSALS",
+    "programa": "948, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Transversals"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Fiber-Optic Communications"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "TRANSVERSALS"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230707",
+    "sigles_ud": "AES",
+    "nom": "SISTEMES INCRUSTATS PER A L'AUTOMOCIÓ",
+    "nom_cast": "SISTEMAS INCRUSTADOS PARA LA AUTOMOCIÓN",
+    "nom_eng": "AUTOMOTIVE EMBEDDED SYSTEMS",
+    "dept": "ENTEL;ESSI;BSC;TSC;EEL;ETSETB",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 230,
+    "bloc_nom": "Elective Transversals, Integrated Systems (ETSETB), Network Engineering (ETSETB), ELECTIVE",
+    "programa": "948, 1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Transversals"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Integrated Systems (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Network Engineering (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "ELECTIVE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230708",
+    "sigles_ud": "I2P",
+    "nom": "PROJECTE INTERDISCIPLINARI D'INNOVACIÓ",
+    "nom_cast": "PROYECTO INTERDISCIPLINARIO DE INNOVACIÓN",
+    "nom_eng": "INTERDISCIPLINARY INNOVATION PROJECT",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 230,
+    "bloc_nom": "Elective Transversals, ELECTIVE",
+    "programa": "948, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Transversals"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "ELECTIVE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230712",
+    "sigles_ud": "EWOC",
+    "nom": "EMPRENEDORIA PER ALS REPTES MUNDIALS",
+    "nom_cast": "EMPRENDIMIENTO PARA LOS RETOS MUNDIALES",
+    "nom_eng": "ENTREPRENEURSHIP FOR WORLD CHALLENGES",
+    "dept": "EEL;OE",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 230,
+    "bloc_nom": "Elective Transversals, Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB), Cybersecurity (ETSETB), Deep Learning for Multimedia Processing (ETSETB), Instrumentation and Sensors (ETSETB), Integrated Systems (ETSETB), Micro and Nanotechnologies for Energy Management (ETSETB), Network Engineering (ETSETB), Optical Networks (ETSETB), Wireless Communications (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Transversals"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Cybersecurity (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Deep Learning for Multimedia Processing (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Instrumentation and Sensors (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Integrated Systems (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Micro and Nanotechnologies for Energy Management (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Network Engineering (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Optical Networks (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Wireless Communications (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230719",
+    "sigles_ud": "ARQSOFT",
+    "nom": "ARQUITECTURA DE SOFTWARE",
+    "nom_cast": "ARQUITECTURA DE SOFTWARE",
+    "nom_eng": "SOFTWARE ARCHITECTURE",
+    "dept": "DAC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 230,
+    "bloc_nom": "Elective Transversals, Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB), Cybersecurity (ETSETB), Deep Learning for Multimedia Processing (ETSETB), Instrumentation and Sensors (ETSETB), Integrated Systems (ETSETB), Micro and Nanotechnologies for Energy Management (ETSETB), Network Engineering (ETSETB), Optical Networks (ETSETB), Wireless Communications (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Transversals"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Antennas, Microwaves and Photonics for Communications and Earth Observation (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Cybersecurity (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Deep Learning for Multimedia Processing (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Instrumentation and Sensors (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Integrated Systems (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Micro and Nanotechnologies for Energy Management (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Network Engineering (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Optical Networks (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Wireless Communications (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230721",
+    "sigles_ud": "SNET",
+    "nom": "XARXES SOCIALS: TEORIA I IMPLEMENTACIÓ",
+    "nom_cast": "REDES SOCIALES: TEORÍA E IMPLEMENTACIÓN",
+    "nom_eng": "SOCIAL NETWORKS: THEORY AND IMPLEMENTATION",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 230,
+    "bloc_nom": "Elective Transversals, Deep Learning for Multimedia Processing (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Transversals"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Deep Learning for Multimedia Processing (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230986",
+    "sigles_ud": "QUAI",
+    "nom": "PRÀCTIQUES EN COMPUTACIÓ QUÀNTICA I INTEL·LIGÈNCIA ARTIFICIAL",
+    "nom_cast": "PRÁCTICAS EN COMPUTACIÓN CUÁNTICA E INTELIGENCIA ARTIFICIAL",
+    "nom_eng": "PRACTICALS IN QUANTUM COMPUTING AND ARTIFICIAL INTELLIGENCE",
+    "dept": "TSC",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 230,
+    "bloc_nom": "Elective Transversals, Seminars, MCYBERS Spring",
+    "programa": "948, 1356, 1383",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Elective Transversals"
+      },
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Spring"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230353",
+    "sigles_ud": "FTMC",
+    "nom": "TENDÈNCIES DE FUTUR EN COMUNICACIONS MÒBILS: DEL 5G AL 6G",
+    "nom_cast": "TENDENCIAS DE FUTURO EN COMUNICACIONES MÓVILES: DEL 5G AL 6G",
+    "nom_eng": "FUTURE TRENDS IN MOBILE COMMUNICATIONS: FROM 5G TO 6G",
+    "dept": "TSC",
+    "credits_ects": 2.5,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars",
+    "programa": "948",
+    "visibilitat": "PUB",
+    "vigent": "N",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230357",
+    "sigles_ud": "FEN",
+    "nom": "ENGINYERIA FINANCERA: APLICACIONS PER A PROJECTES DE TECNOLOGIES DE LA INFORMACIÓ",
+    "nom_cast": "INGENIERÍA FINANCIERA: APLICACIONES PARA PROYECTOS DE TECNOLOGÍAS DE LA INFORMACIÓN",
+    "nom_eng": "FINANCIAL ENGINEERING: APPLICATIONS FOR INFORMATION TECHNOLOGY PROJECTS",
+    "dept": "ENTEL",
+    "credits_ects": 2.5,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars",
+    "programa": "948",
+    "visibilitat": "PUB",
+    "vigent": "N",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230359",
+    "sigles_ud": "TELECS",
+    "nom": "SEMINARI DE TELECOMUNICACIONS I ELECTRÒNICA",
+    "nom_cast": "SEMINARIO DE TELECOMUNICACIONES Y ELECTRÓNICA",
+    "nom_eng": "TELECOMMUNICATIONS AND ELECTRONICS SEMINAR",
+    "dept": "ENTEL",
+    "credits_ects": 2.5,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars",
+    "programa": "948",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230361",
+    "sigles_ud": "SCD",
+    "nom": "CÈL·LULES SOLARS PER A INEXPERTS",
+    "nom_cast": "CÉLULAS SOLARES PARA INEXPERTOS",
+    "nom_eng": "SOLAR CELLS FOR DUMMIES",
+    "dept": "EEL",
+    "credits_ects": 2.5,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars, SEMINARS",
+    "programa": "948, 1476",
+    "visibilitat": "PUB",
+    "vigent": "N",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "SEMINARS"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230365",
+    "sigles_ud": "PCBD",
+    "nom": "DISSENY DE PLAQUES DE CIRCUIT IMPRÈS",
+    "nom_cast": "DISEÑO DE PLACAS DE CIRCUITO IMPRESO",
+    "nom_eng": "PRINTED CIRCUIT BOARD DESIGN",
+    "dept": "EEL",
+    "credits_ects": 2.5,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars, SEMINARS",
+    "programa": "948, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "SEMINARS"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230372",
+    "sigles_ud": "SATT",
+    "nom": "SEMINARI EN TECNOLOGIES AVANÇADES DE TELECOMUNICACIÓ",
+    "nom_cast": "SEMINARIO EN TECNOLOGÍAS AVANZADAS DE TELECOMUNICACIÓN",
+    "nom_eng": "ADVANCED TELECOMMUNICATION TECHNOLOGIES SEMINAR",
+    "dept": "ENTEL;TSC;EEL",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Seminars"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230375",
+    "sigles_ud": "GSP",
+    "nom": "PROCESSAMENT DEL SENYAL EN GRAFS",
+    "nom_cast": "PROCESADO DE LA SEÑAL EN GRAFOS",
+    "nom_eng": "GRAPH SIGNAL PROCESSING",
+    "dept": "TSC",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Seminars"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230378",
+    "sigles_ud": "GNSS",
+    "nom": "GRANS CONJUNTS DE DADES GNSS: DE LA PERCEPCIÓ REMOTA A LA CLIMATOLOGIA ESPACIAL",
+    "nom_cast": "GRANDES CONJUNTOS DE DATOS GNSS: DE LA PERCEPCIÓN REMOTA A LA CLIMATOLOGÍA ESPACIAL",
+    "nom_eng": "BIG GNSS DATA: FROM REMOTE SENSING TO SPACE WEATHER",
+    "dept": "MAT",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars, SEMINARS",
+    "programa": "948, 1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "SEMINARS"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230379",
+    "sigles_ud": "MCC",
+    "nom": "CODIFICACIÓ DE CANAL MODERNA",
+    "nom_cast": "CODIFICACIÓN DE CANAL MODERNA",
+    "nom_eng": "MODERN CHANNEL CODING",
+    "dept": "TSC",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Seminars"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230380",
+    "sigles_ud": "TM",
+    "nom": "NOUS MERCATS DE TELECOMUNICACIONS",
+    "nom_cast": "NUEVOS MERCADOS DE TELECOMUNICACIONES",
+    "nom_eng": "NEW TELECOMMUNICATIONS MARKETS",
+    "dept": "TSC",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Seminars"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230381",
+    "sigles_ud": "QCC",
+    "nom": "COMUNICACIÓ I COMPUTACIÓ QUÀNTICA",
+    "nom_cast": "COMUNICACIÓN Y COMPUTACIÓN CUÁNTICA",
+    "nom_eng": "QUANTUM COMMUNICATION AND COMPUTATION",
+    "dept": "TSC",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Seminars"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230382",
+    "sigles_ud": "AI2OT",
+    "nom": "INTEL·LIGÈNCIA ARTIFICIAL I LA INTERNET DE LES COSES (IOT)",
+    "nom_cast": "INTELIGENCIA ARTIFICIAL Y LA INTERNET DE LAS COSAS (IOT)",
+    "nom_eng": "ARTIFICIAL INTELLIGENCE AND INTERNET OF THINGS (IOT)",
+    "dept": "ENTEL",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars, SEMINARS",
+    "programa": "948, 1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "SEMINARS"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230383",
+    "sigles_ud": "ACEND",
+    "nom": "ESTRATÈGIES ALTERNATIVES DE COMPUTACIÓ AMB DISPOSITIUS NANOELECTRÒNICS EMERGENTS",
+    "nom_cast": "ESTRATEGIAS ALTERNATIVAS DE COMPUTACIÓN MEDIANTE DISPOSITIVOS NANOELECTRÓNICOS EMERGENTES",
+    "nom_eng": "ALTERNATIVE COMPUTING STRATEGIES WITH EMERGING NANOELECTRONIC DEVICES",
+    "dept": "EEL",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars, SEMINARS",
+    "programa": "948, 1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "SEMINARS"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230384",
+    "sigles_ud": "MAAP",
+    "nom": "ÀLGEBRA MATRICIAL, CURS INTENSIU",
+    "nom_cast": "ÁLGEBRA MATRICIAL, CURSO INTENSIVO",
+    "nom_eng": "MATRIX ALGEBRA, INTENSIVE COURSE",
+    "dept": "TSC",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "N",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Seminars"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230385",
+    "sigles_ud": "SATCOM-NTN",
+    "nom": "COMUNICACIONS INTEGRADES SATÈL·LIT-TERRESTRE PER AL 6G",
+    "nom_cast": "COMUNICACIONES INTEGRADAS SATÉLITE-TERRESTRE PARA EL 6G",
+    "nom_eng": "INTEGRATED SATELLITE-TERRESTRIAL COMMUNICATIONS FOR 6G",
+    "dept": "TSC",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Seminars"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230386",
+    "sigles_ud": "6G-FTMC",
+    "nom": "EL CAMÍ CAP AL 6G: TENDÈNCIES FUTURES EN COMUNICACIONS MÒBILS",
+    "nom_cast": "EL CAMINO HACIA EL 6G: TENDENCIAS FUTURAS EN COMUNICACIONES MÓVILES",
+    "nom_eng": "THE WAY TO 6G: FUTURE TRENDS IN MOBILE COMMUNICATIONS",
+    "dept": "TSC;ENTEL",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Seminars"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230387",
+    "sigles_ud": "LABUE",
+    "nom": "LABORATORI D'ELECTRÒNICA PER A ULTRASONS",
+    "nom_cast": "LABORATORIO DE ELECTRÓNICA PARA ULTRASONIDOS",
+    "nom_eng": "ULTRASOUND ELECTRONICS LABORATORY",
+    "dept": "EEL",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars, SEMINARS",
+    "programa": "948, 1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Seminars"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "SEMINARS"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230388",
+    "sigles_ud": "LHPT",
+    "nom": "GESTIÓ D'EQUIPS D'ALT RENDIMENT",
+    "nom_cast": "GESTIÓN DE EQUIPOS DE ALTO RENDIMIENTO",
+    "nom_eng": "LEADING HIGH-PERFORMING TEAMS",
+    "dept": "OE",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars",
+    "programa": "948",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230389",
+    "sigles_ud": "WES",
+    "nom": "ENERGIA EÒLICA: FONAMENTS, APLICACIONS OFFSHORE I SISTEMES DE DETECCIÓ",
+    "nom_cast": "ENERGÍA EÓLICA: FUNDAMENTOS, APLICACIONES OFFSHORE Y SISTEMAS DE DETECCIÓN",
+    "nom_eng": "WIND ENERGY: FUNDAMENTALS, OFFSHORE APPLICATIONS AND SENSING SYSTEMS",
+    "dept": "TSC",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 259,
+    "bloc_nom": "Seminars",
+    "programa": "948",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Seminars"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230724",
+    "sigles_ud": "AI5G",
+    "nom": "XARXES DE RÀDIO 5G AMB INTEL·LIGÈNCIA ARTIFICIAL",
+    "nom_cast": "REDES DE RADIO 5G CON INTELIGENCIA ARTIFICIAL",
+    "nom_eng": "ARTIFICIAL INTELLIGENCE-ENABLED 5G RADIO NETWORKS",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 232,
+    "bloc_nom": "Spec. Wireless Communications, Wireless Communications (ETSETB)",
+    "programa": "948, 1356",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "948",
+        "bloc_nom": "Spec. Wireless Communications"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Wireless Communications (ETSETB)"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230714",
+    "sigles_ud": "NSAA",
+    "nom": "SEGURETAT DE XARXA: AUTENTICACIÓ I AUTORITZACIÓ",
+    "nom_cast": "SEGURIDAD DE RED: AUTENTICACIÓN Y AUTORIZACIÓN",
+    "nom_eng": "NETWORK SECURITY: AUTHENTICATION AND AUTHORISATION",
+    "dept": "ENTEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 296,
+    "bloc_nom": "Cybersecurity (ETSETB), MCYBERS Spring",
+    "programa": "1356, 1383",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1356",
+        "bloc_nom": "Cybersecurity (ETSETB)"
+      },
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Spring"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230669",
+    "sigles_ud": "MEMS",
+    "nom": "SISTEMES MICROELECTROMECÀNICS",
+    "nom_cast": "SISTEMAS MICROELECTROMECÁNICOS",
+    "nom_eng": "MICROELECTROMECHANICAL SYSTEMS",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 271,
+    "bloc_nom": "Instrumentation and Sensors (ETSETB), Micro and Nanotechnologies for Energy Management (ETSETB), ELECTIVE",
+    "programa": "1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1356",
+        "bloc_nom": "Instrumentation and Sensors (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Micro and Nanotechnologies for Energy Management (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "ELECTIVE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230673",
+    "sigles_ud": "EMC",
+    "nom": "EMC EN DISSENY ELECTRÒNIC",
+    "nom_cast": "EMC EN DISEÑO ELECTRÓNICO",
+    "nom_eng": "EMC IN ELECTRONIC DESIGN",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 271,
+    "bloc_nom": "Instrumentation and Sensors (ETSETB), ELECTIVE",
+    "programa": "1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1356",
+        "bloc_nom": "Instrumentation and Sensors (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "ELECTIVE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230694",
+    "sigles_ud": "IBES",
+    "nom": "INTRODUCCIÓ ALS SISTEMES ELECTRÒNICS BIOMÈDICS",
+    "nom_cast": "INTRODUCCIÓN A LOS SISTEMAS ELECTRÓNICOS BIOMÉDICOS",
+    "nom_eng": "INTRODUCTION TO BIOMEDICAL ELECTRONIC SYSTEMS",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 271,
+    "bloc_nom": "Instrumentation and Sensors (ETSETB), ELECTIVE",
+    "programa": "1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1356",
+        "bloc_nom": "Instrumentation and Sensors (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "ELECTIVE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230662",
+    "sigles_ud": "CSAS",
+    "nom": "SISTEMES INTEL·LIGENTS ADAPTATIUS",
+    "nom_cast": "SISTEMAS INTELIGENTES ADAPTATIVOS",
+    "nom_eng": "ADAPTIVE INTELLIGENT SYSTEMS",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 269,
+    "bloc_nom": "Integrated Systems (ETSETB), ELECTIVE",
+    "programa": "1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1356",
+        "bloc_nom": "Integrated Systems (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "ELECTIVE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230663",
+    "sigles_ud": "RICS",
+    "nom": "CIRCUITS INTEGRATS I SISTEMES DE RADIOFREQÜÈNCIA",
+    "nom_cast": "CIRCUITOS INTEGRADOS Y SISTEMAS DE RADIOFRECUENCIA",
+    "nom_eng": "RADIOFREQUENCY INTEGRATED CIRCUITS AND SYSTEMS",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 269,
+    "bloc_nom": "Integrated Systems (ETSETB), ELECTIVE",
+    "programa": "1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1356",
+        "bloc_nom": "Integrated Systems (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "ELECTIVE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230665",
+    "sigles_ud": "AMS",
+    "nom": "DISSENY DE SISTEMES INTEGRATS ANALÒGICS I MIXTOS",
+    "nom_cast": "DISEÑO DE SISTEMAS INTEGRADOS ANALÓGICOS Y MIXTOS",
+    "nom_eng": "ANALOGUE AND MIXED-SIGNAL SYSTEM-ON-CHIP DESIGN",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 269,
+    "bloc_nom": "Integrated Systems (ETSETB), ELECTIVE",
+    "programa": "1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1356",
+        "bloc_nom": "Integrated Systems (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "ELECTIVE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230667",
+    "sigles_ud": "SCPD",
+    "nom": "DISSENY FÍSIC DE SISTEMES INTEGRATS",
+    "nom_cast": "DISEÑO FÍSICO DE SISTEMAS INTEGRADOS",
+    "nom_eng": "SYSTEM-ON-CHIP PHYSICAL DESIGN",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 269,
+    "bloc_nom": "Integrated Systems (ETSETB), ELECTIVE",
+    "programa": "1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1356",
+        "bloc_nom": "Integrated Systems (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "ELECTIVE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230675",
+    "sigles_ud": "EDIS",
+    "nom": "GESTIÓ D'ENERGIA EN SISTEMES INTEGRATS I DISTRIBUÏTS",
+    "nom_cast": "GESTIÓN DE ENERGÍA EN SISTEMAS INTEGRADOS Y DISTRIBUIDOS",
+    "nom_eng": "ENERGY MANAGEMENT FOR DISTRIBUTED AND INTEGRATED SYSTEMS",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 269,
+    "bloc_nom": "Integrated Systems (ETSETB), Micro and Nanotechnologies for Energy Management (ETSETB), ELECTIVE",
+    "programa": "1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1356",
+        "bloc_nom": "Integrated Systems (ETSETB)"
+      },
+      {
+        "programa": "1356",
+        "bloc_nom": "Micro and Nanotechnologies for Energy Management (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "ELECTIVE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230676",
+    "sigles_ud": "PCRES",
+    "nom": "CONTROL DE POTÈNCIA PER A SISTEMES D'ENERGIES RENOVABLES",
+    "nom_cast": "CONTROL DE POTENCIA PARA SISTEMAS DE ENERGÍAS RENOVABLES",
+    "nom_eng": "POWER CONTROL FOR RENEWABLE ENERGY SYSTEMS",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 274,
+    "bloc_nom": "Micro and Nanotechnologies for Energy Management (ETSETB), ELECTIVE",
+    "programa": "1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1356",
+        "bloc_nom": "Micro and Nanotechnologies for Energy Management (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "ELECTIVE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230678",
+    "sigles_ud": "MOSIC",
+    "nom": "MODELITZACIÓ, SIMULACIÓ I CONTROL DE SISTEMES ELECTRÒNICS DE POTÈNCIA",
+    "nom_cast": "MODELIZACIÓN, SIMULACIÓN Y CONTROL DE SISTEMAS ELECTRÓNICOS DE POTENCIA",
+    "nom_eng": "MODELLING, SIMULATION AND CONTROL OF POWER ELECTRONIC SYSTEMS",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 274,
+    "bloc_nom": "Micro and Nanotechnologies for Energy Management (ETSETB), ELECTIVE",
+    "programa": "1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1356",
+        "bloc_nom": "Micro and Nanotechnologies for Energy Management (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "ELECTIVE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230679",
+    "sigles_ud": "PVS",
+    "nom": "SISTEMES FOTOVOLTAICS",
+    "nom_cast": "SISTEMAS FOTOVOLTAICOS",
+    "nom_eng": "PHOTOVOLTAIC SYSTEMS",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 274,
+    "bloc_nom": "Micro and Nanotechnologies for Energy Management (ETSETB), ELECTIVE",
+    "programa": "1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1356",
+        "bloc_nom": "Micro and Nanotechnologies for Energy Management (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "ELECTIVE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230692",
+    "sigles_ud": "TECHDEV",
+    "nom": "TECNOLOGIES DE FABRICACIÓ I CARACTERITZACIÓ PER A MICRO I NANODISPOSITIUS",
+    "nom_cast": "TECNOLOGÍAS DE FABRICACIÓN Y CARACTERIZACIÓN PARA MICRO Y NANODISPOSITIVOS",
+    "nom_eng": "MANUFACTURING AND CHARACTERISATION TECHNOLOGIES FOR MICRO AND NANODEVICES",
+    "dept": "EEL",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 274,
+    "bloc_nom": "Micro and Nanotechnologies for Energy Management (ETSETB), ELECTIVE",
+    "programa": "1356, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1356",
+        "bloc_nom": "Micro and Nanotechnologies for Energy Management (ETSETB)"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "ELECTIVE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230993",
+    "sigles_ud": "TMA",
+    "nom": "MONITORATGE I ANÀLISI DEL TRÀNSIT DE XARXA",
+    "nom_cast": "MONITORIZACIÓN Y ANÁLISIS DEL TRÁFICO DE RED",
+    "nom_eng": "NETWORK TRAFFIC MONITORING AND ANALYSIS",
+    "dept": "DAC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 216,
+    "bloc_nom": "MCYBERS Fall",
+    "programa": "1383",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Fall"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230994",
+    "sigles_ud": "MALW",
+    "nom": "MALWARE",
+    "nom_cast": "MALWARE",
+    "nom_eng": "MALWARE",
+    "dept": "DAC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 216,
+    "bloc_nom": "MCYBERS Fall",
+    "programa": "1383",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Fall"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230995",
+    "sigles_ud": "AS",
+    "nom": "SEGURETAT EN APLICACIONS",
+    "nom_cast": "SEGURIDAD EN APLICACIONES",
+    "nom_eng": "APPLICATION SECURITY",
+    "dept": "DAC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 216,
+    "bloc_nom": "MCYBERS Fall",
+    "programa": "1383",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Fall"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230987",
+    "sigles_ud": "SONET",
+    "nom": "XARXES ÒPTIQUES SEGURES",
+    "nom_cast": "REDES ÓPTICAS SEGURAS",
+    "nom_eng": "SECURE OPTICAL NETWORKS",
+    "dept": "TSC",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 217,
+    "bloc_nom": "MCYBERS Spring",
+    "programa": "1383",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Spring"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230989",
+    "sigles_ud": "HSES",
+    "nom": "SEGURETAT EN EL HARDWARE DE SISTEMES INCRUSTATS: PRIMITIVES, DEBILITATS I CONTRAMESURES",
+    "nom_cast": "SEGURIDAD EN EL HARDWARE DE SISTEMAS INCRUSTADOS: PRIMITIVAS, DEBILIDADES Y CONTRAMEDIDAS",
+    "nom_eng": "HARDWARE SECURITY IN EMBEDDED SYSTEMS: PRIMITIVES, WEAKNESSES AND COUNTERMEASURES",
+    "dept": "EEL",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 217,
+    "bloc_nom": "MCYBERS Spring, ELECTIVE, SEMINARS",
+    "programa": "1383, 1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Spring"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "ELECTIVE"
+      },
+      {
+        "programa": "1476",
+        "bloc_nom": "SEMINARS"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230992",
+    "sigles_ud": "BCMCC",
+    "nom": "CURS BREU EN LES MATEMÀTIQUES DE LA TEORIA DE CODIS I LA CRIPTOGRAFIA",
+    "nom_cast": "CURSO BREVE EN LAS MATEMÁTICAS DE LA TEORÍA DE CÓDIGOS Y LA CRIPTOGRAFÍA",
+    "nom_eng": "BRIEF COURSE ON THE MATHEMATICS BEHIND CODING THEORY AND CRYPTOGRAPHY",
+    "dept": "MAT",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 217,
+    "bloc_nom": "MCYBERS Spring",
+    "programa": "1383",
+    "visibilitat": "PUB",
+    "vigent": "N",
+    "groups": [
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Spring"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230996",
+    "sigles_ud": "SDS",
+    "nom": "SEGURETAT DEFINIDA PER PROGRAMARI (SDS)",
+    "nom_cast": "SEGURIDAD DEFINIDA POR SOFTWARE (SDS)",
+    "nom_eng": "SOFTWARE-DEFINED SECURITY (SDS)",
+    "dept": "DAC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 217,
+    "bloc_nom": "MCYBERS Spring",
+    "programa": "1383",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Spring"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230997",
+    "sigles_ud": "SECON",
+    "nom": "COMUNICACIONS SEGURES EN XARXES DE FIBRA ÒPTICA",
+    "nom_cast": "COMUNICACIONES SEGURAS EN REDES DE FIBRA ÓPTICA",
+    "nom_eng": "SECURE COMMUNICATIONS IN FIBRE OPTIC NETWORKS",
+    "dept": "TSC",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 217,
+    "bloc_nom": "MCYBERS Spring",
+    "programa": "1383",
+    "visibilitat": "PUB",
+    "vigent": "N",
+    "groups": [
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Spring"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230998",
+    "sigles_ud": "QCRIP",
+    "nom": "COMPUTACIÓ I CRIPTOGRAFIA QUÀNTIQUES",
+    "nom_cast": "COMPUTACIÓN Y CRIPTOGRAFÍA CUÁNTICAS",
+    "nom_eng": "QUANTUM COMPUTING AND CRYPTOGRAPHY",
+    "dept": "TSC",
+    "credits_ects": 3,
+    "centre": "230",
+    "bloc_id": 217,
+    "bloc_nom": "MCYBERS Spring",
+    "programa": "1383",
+    "visibilitat": "PUB",
+    "vigent": "N",
+    "groups": [
+      {
+        "programa": "1383",
+        "bloc_nom": "MCYBERS Spring"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230732",
+    "sigles_ud": "EIWC",
+    "nom": "EMPRENEDORIA I INNOVACIÓ PER ALS REPTES MUNDIALS",
+    "nom_cast": "EMPRENDIMIENTO E INNOVACIÓN PARA LOS RETOS MUNDIALES",
+    "nom_eng": "ENTREPRENEURSHIP AND INNOVATION FOR WORLD CHALLENGES",
+    "dept": "EEL;OE;ETSETB",
+    "credits_ects": 5,
+    "centre": "230",
+    "bloc_id": 71,
+    "bloc_nom": "CORE",
+    "programa": "1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1476",
+        "bloc_nom": "CORE"
+      }
+    ]
+  },
+  {
+    "codi_upc_ud": "230390",
+    "sigles_ud": "WEF",
+    "nom": "PER QUÈ ES BELLUGUEN ELS ELECTRONS: COMPRENSIÓ DE LES CÈL·LULES SOLARS",
+    "nom_cast": "POR QUÉ SE MUEVEN LOS ELECTRONES: COMPRENSIÓN DE LAS CÉLULAS SOLARES",
+    "nom_eng": "WHY ELECTRONS FLOW: UNDERSTANDING SOLAR CELLS",
+    "dept": "EEL",
+    "credits_ects": 2.5,
+    "centre": "230",
+    "bloc_id": 260,
+    "bloc_nom": "SEMINARS",
+    "programa": "1476",
+    "visibilitat": "PUB",
+    "vigent": "S",
+    "groups": [
+      {
+        "programa": "1476",
+        "bloc_nom": "SEMINARS"
+      }
+    ]
+  }
+]
