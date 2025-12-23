@@ -147,10 +147,28 @@ async function handleSaveToGitHub() {
   statusMessage.value = "Guardant a GitHub...";
 
   try {
-    // Reconstruir l'estructura original si cal, o guardar pla?
-    // Per simplicitat i potència, guardem com a llista plana d'objectes Assignatura.
-    // O si volem mantenir l'estructura de blocs, seria molt més complex reconstruir-la.
-    // De moment, guardem la llista normalitzada que és el que fa servir l'app.
+    // 1. Check if file exists to get its SHA (for update) or null (for create)
+    let shaToUse = currentSha.value;
+    
+    // Always fetch latest SHA for the target path to ensure no conflicts
+    // and to handle cases where we changed 'settings.path' manually
+    try {
+        const fileData = await getRepoContent(
+            settings.value.owner,
+            settings.value.repo,
+            settings.value.path,
+            settings.value.token,
+            settings.value.branch
+        );
+        shaToUse = fileData.sha;
+    } catch (e: any) {
+        // If 404/not found, it means we are creating a new file -> shaToUse undefined
+        // If other error, we might want to warn, but we'll try saving as new or let saveRepo handle it
+        if (e.message !== "File not found") {
+            console.warn("Could not check for existing file, assuming new:", e);
+        }
+    }
+
     const content = JSON.stringify(assignatures.value, null, 2);
     
     await saveRepoContent(
@@ -160,7 +178,7 @@ async function handleSaveToGitHub() {
       content,
       `chore: Update subjects via CMS (${new Date().toISOString().split('T')[0]})`,
       settings.value.token,
-      currentSha.value || undefined, // Send SHA if we have it to update, else generic create/update
+      shaToUse || undefined, 
       settings.value.branch
     );
     
@@ -168,8 +186,6 @@ async function handleSaveToGitHub() {
     alert("Canvis guardats correctament!");
     
     // Refresh SHA to allow subsequent saves without reloading
-    // We re-fetch lightly or assume head moved. 
-    // Best practice: re-fetch to get new SHA.
     await handleLoadFromGitHub(); 
 
   } catch (e: any) {
