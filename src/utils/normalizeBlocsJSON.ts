@@ -177,13 +177,13 @@ export function normalizeBlocsJSON(raw: unknown): NormalizedResult {
         dept,
         credits_ects: credits,
         centre,
-        // sense info de bloc en aquest format
-        bloc_id: null,
-        bloc_nom: "",
-        programa: null,
-        visibilitat: "",
-        vigent, // 👈 AFEGIT
-        groups: [] // No blocks in this format
+        // preserve existing block/group info if available
+        bloc_id: ud?.bloc_id ?? null,
+        bloc_nom: ud?.bloc_nom ?? "",
+        programa: ud?.programa ?? null,
+        visibilitat: ud?.visibilitat ?? "",
+        vigent,
+        groups: Array.isArray(ud?.groups) ? ud.groups : []
       });
     }
 
